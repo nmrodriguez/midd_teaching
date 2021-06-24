@@ -1,0 +1,62 @@
+---
+title: "Español 1.5"
+subtitle: ""
+author: "Nicole Rodríguez"
+institute: "Middlebury College"
+date: "2021/06/23 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [default, middlebury, middlebury-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+Yo soy Nicole Rodríguez
+
+
+---
+
+Soy estudiante de doctorado en Rutgers (¡¡¡me graduo en Octubre!!!)
+
+---
+
+Soy de NJ
+
+---
+
+Soy aficionada de Celta de Vigo y de los Mets
+
+---
+
+Soy tía
+
+---
+
+Presentaciones y descripciones de personas, presente
+
+---
+
+Día 2
+
+---
+
+Repasito
+
+---
+
+Artículos y sustantivos, estar
+
+---
+
+Día 3
+
+---
+
+Entrevistas/presentaciones, presente, interrogativos
+Estrategias para la comunicación oral
+Actividad e-Portafolio - Cómo se hace una presentación
+
+---
