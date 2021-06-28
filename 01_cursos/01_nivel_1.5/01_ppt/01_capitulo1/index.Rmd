@@ -1,0 +1,375 @@
+---
+title: "Español 1.5"
+subtitle: ""
+author: "Nicole Rodríguez"
+institute: "Middlebury College"
+date: "2021/06/23 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [default, middlebury, middlebury-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+# Yo soy Nicole Rodríguez
+
+![hiking](libs/img/hiking.png)
+
+---
+# Soy de NJ
+
+![nj](libs/img/nj.png)
+
+
+---
+
+# Mis padres son de Galicia, España
+
+
+.left[![galicia](libs/img/galicia1.png)]
+
+.center[![another](libs/img/galicia2.png)]
+
+.right[![anotherr](libs/img/galicia3.png)]
+
+
+---
+
+# Soy estudiante de doctorado en Rutgers 
+### (¡¡¡me graduo en octubre!!!)
+
+![rutgers](libs/img/rutgers.png)
+
+
+---
+
+# Estudio la fonología. 
+
+![vowel](libs/img/vowel.png)
+
+
+---
+
+# Soy aficionada de Celta de Vigo y de los Mets
+
+.pull-left[
+![celta](libs/img/celta.png)
+![spain](libs/img/espana.png)
+]
+
+.pull-right[
+![nym](libs/img/nym.png)
+]
+
+---
+
+# Soy tía
+
+.pull-left[
+![chloe](libs/img/chloe.png)
+]
+
+.pull-right[
+![chloeR](libs/img/chloe2.png)
+]
+---
+# ¡A presentarnos!
+
+- Nombre - Mote/Apodo - Pronombres (cambia en Zoom: Nicole Rodríguez (she/her/ella))
+	
+- ¿De dónde vienes?
+	
+- Estudias/trabajas
+  - ¿en qué?
+	
+- Algo interesante de ti
+
+---
+# A conocernos un poco más
+
+- ¿Qué te gusta hacer en tu tiempo libre?
+  
+  - Me gusta **tejer y correr**.
+
+- ¿Qué película te hace llorar?
+
+  - **Avengers: End Game** me hace llorar.
+
+- Describe tu lugar favorito. 
+  
+  - Mi lugar favorite es **la casa de mis abuelos**. **Son mis mejores amigos y me gusta** 
+  **estar con ellos.**  
+  
+
+**Tienes que contarnos una cosa de tu compañer@**
+
+---
+# El sitio web de Canvas
+
+![canvas](libs/img/canvas.png)
+
+¡Y el libro!
+
+---
+# ¿Qué queremos aprender?
+
+![que](libs/img/cerebro.jpg)
+
+https://www.menti.com/g1rcsmy2f2 
+
+---
+# Hoy hablaremos de las presentaciones y descripciones de personas
+
+#### A leer
+
+Me **llamo** Paloma Roldán. 
+**Estudio** Administración y Dirección de Empresas en la Universidad 
+Autónoma de Madrid. 
+Mis clases **son** por la mañana.
+**Llego** a la universidad a las nueve. 
+Este semestre mis cursos **son** matemáticas, economía, ciencias políticas, 
+estadística y análisis financiero. 
+Mi clase favorita **es** economía. 
+La clase de estadística **es** difícil, pero el profesor **es** muy bueno. 
+La clase de ciencias políticas **es** fácil y muy interesante. 
+**Hablo** español, francés e inglés.
+
+--
+
+Este chico **es** mi primo. 
+Se **llama** Daniel y **estudia** Humanidades en la Universidad Pompeu Fabra 
+de Barcelona. 
+**Habla** castellano (español) y catalán. 
+Sus clases este año **son** literatura, historia y geografía. 
+Daniel **es** muy responsable y estudioso. 
+Generalmente **llega** a la universidad a las ocho. 
+Por la tarde, **escribe** sus tareas en el ordenador, **estudia** y **escucha** 
+música o **mira** películas (movies) en la televisión. 
+Daniel **practica** fútbol todas las semanas con sus compañeros de clase 
+y sus amigos de la universidad.
+
+
+---
+# Recordamos 
+
+¿Qué sabes de los estudiantes? 
+Esta información se refiere a Paloma (P) or to Daniel (D).
+
+- _________ Llega a las nueve a la universidad.
+
+- _________ Practica fútbol todas las semanas.
+
+- _________ Estudia geografía.
+
+- _________ Escucha música por la tarde.
+
+- _________ Su clase favorita es economía.
+
+- _________ Habla catalán.
+
+---
+class: center
+# Descanso
+
+---
+# Trabajamos en grupos. 
+
+Os voy a dar 4 parrafos, tienes que **pensar**, **mirar**, y **adivinar** quien es la
+persona de ese parrafo. 
+
+[google drive](https://docs.google.com/document/d/1xEcn5C1CtyO3OPYMo_aJ8sZNK7XJER062et8Ay7_kqA/edit?usp=sharing)
+
+---
+
+# Miramos los verbs en **negrita**
+
+--
+
+## ¿Podemos crear un patrón?
+
+--
+
+### Los pronombres personales
+
+|      |         |
+|--------|----------|
+| Yo     | Nosotros |
+| Tú     | Vosotros       |
+| él/ella/Usted | Ustedes  |
+
+**Para recordar estos pronombres personales, mirate la mano**
+
+
+---
+
+.pull-left[
+![vosotros](libs/img/vosotros1.png)
+]
+
+.pull-right[
+![anothermeme](libs/img/vosotros2.png)
+]
+
+---
+class: center
+# Los verbos del presente -ar
+
+|    Hablar  |  (to speak)   |
+|--------|----------|
+| Yo habl**o**  | Nosotros habl**amos** |
+| Tú habl**as**    | Vosotros habl**áis**  |
+| él/ella/Usted habl**a** | Ustedes habl**an** |
+
+*Ejemplos*: Ana **trabaja** en la oficina. 
+Luis **practica** el piano todos los días. 
+
+---
+class: center
+# Los verbos del presente -er/-ir
+
+|    aprender  |  (to learn)   |
+|--------|----------|
+| Yo aprend**o**  | Nosotros aprend**emos** |
+| Tú aprend**es**    | Vosotros aprend**éis**  |
+| él/ella/Usted aprend**e** | Ustedes aprend**en** |
+
+*Ejemplo*: Nosotros **aprendemos** en la clase de español :) 
+
+
+|    vivir  |  (to live)   |
+|--------|----------|
+| Yo viv**o**  | Nosotros viv**imos** |
+| Tú viv**es**    | Vosotros viv**ís**  |
+| él/ella/Usted viv**e** | Ustedes viv**en** |
+
+*Ejemplo*: Yo **vivo** en Middlebury, Vermont ahora.
+
+---
+# Escojemos la palabra correcta (yo, tú, nosotros, él/ella/usted, ustedes, vosotros)
+
+1. _______________ compran libros para las clases que toman.
+
+2. _______________ necesitamos computadoras para estudiar en internet.
+
+3. Señor, _______________ necesita comprar bolígrafos para tomar apuntes.
+
+4. Y _______________, ¿qué necesitas para el proyecto de química?
+
+5. _______________ compro cuadernos en la librería de la universidad.
+
+6. _______________ necesita hablar de sus problemas de horario con la administración.
+
+---
+# Usamos comer y escribir para rellenar estas frases
+
+1. Los estudiantes _______________ con sus amigos en un restaurante en el campus todos los días.
+
+2. Yo _______________ en casa porque cuesta mucho dinero comer en los restaurantes.
+
+3. Y tú, ¿_______________ tu almuerzo (lunch) en casa o en la cafetería de la universidad?
+
+4. La profesora _______________ los exámenes en su computadora portátil.
+
+5. Mis amigos y yo _______________ la tarea de español en la computadora.
+
+
+---
+#¿A qué te dedicas? ¿Qué haces?
+
+
+
+- Tejer
+  
+- Correr
+  
+- Cocinar
+  
+- Enseñar
+
+### **Piensa** en estas preguntas: **¿A qué te dedicas? ¿Qué haces?**
+¡¡Puede ser trabajo, estudio, o diversión!!
+
+---
+
+# A compartir con los compañer@s
+
+---
+
+#.pull-left[Un día típico para mí en NJ] 
+
+#.pull-right[Un día típico en Middlebury]
+
+.pull-left[
+- Corro
+
+- Tejo 
+
+- Cocino 
+
+- Escribo mi tesis
+]
+
+.pull-right[
+- Corro (?)
+
+- Enseño
+
+- Escribo mi tesis
+
+- Tejo
+]
+
+---
+# A compartir con los compañer@s
+
+#### Usa "En Middlebury ______ (verbo) pero en (otro lugar) _______ (verbo)."
+
+#### o: "En Middlebury y en (otro lugar) ______ (verbo)."
+
+Ejemplos: En Middlebury enseño pero en New Jersey cocino. En Middlebury y en NJ escribo mi tesis.
+
+
+---
+# Somos artistas 
+
+- Vamos a dibujar 
+![dibujar](libs/img/dibujar.gif)
+
+- Un@ compañer@ describe una persona. 
+
+- Otr@ compañer@ dibuja esa persona.
+
+---
+class: center, inverse
+background-image: url("libs/img/guess-who.png")
+
+
+---
+
+# ¿¿Comemos juntos un día?? Desayno, almuerzo o cena.
+
+---
+
+Día 2
+
+---
+
+Repasito
+
+---
+
+Artículos y sustantivos, estar
+
+---
+
+Día 3
+
+---
+
+Entrevistas/presentaciones, presente, interrogativos
+Estrategias para la comunicación oral
+Actividad e-Portafolio - Cómo se hace una presentación
+
+---
