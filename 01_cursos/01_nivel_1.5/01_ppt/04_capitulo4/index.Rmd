@@ -38,8 +38,9 @@ class: center, middle, inverse
 ![fear](libs/img/fear.gif)
 
 ---
+class: center, middle 
 
-# Cancion - Stem changing one
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wnJ6LuUFpMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
@@ -175,9 +176,37 @@ class: center, middle, inverse
 
 # Usamos los verbos que tienen un cambio de raiz para describir estas familias
 
+.pull-left[
 **Ejemplo**:
 
 ![awkward](libs/img/awkward1.jpg)
+]
+
+.pull-right[
+
+jugar
+
+querer
+
+seguir
+
+servir
+
+pedir
+
+poder
+
+dormir
+
+empezar
+
+costar
+
+preferir
+
+recomendar
+
+]
 
 ---
 
@@ -225,10 +254,6 @@ corta en una hoja de papel.
 - recomendar
 
 ]
-
-
----
-# Escape Room
 
 ---
 
@@ -289,6 +314,13 @@ Usad los verbos de la lista para hablar de tu familia
 - Nosotros **jugamos** cartas juntos. 
 
 ]
+
+---
+
+# Escapando de la clase tradicional
+
+![escape](libs/img/escape.jpg)
+
 
 ---
 background-image: url(libs/img/spiderman.jpg)
@@ -355,7 +387,7 @@ background-color: black
 
 - Ustedes **se** .RUred[conocen]
 
-- Rocío y Joseph **se** .RUred[casan]
+- Ben and Leslie **se** .RUred[casan]
 
 - Vosotras **os** .RUred[ayudáis] con la tarea 
 
@@ -376,7 +408,6 @@ background-color: black
 
 --
 
-&lt;/br&gt;
 
 .pull-left[
 .content-box-blue[
@@ -416,47 +447,100 @@ gramaticalmente la tercera persona plural.
 
 --
 
-background-image: url(./assets/img/crash.gif)
+background-image: url(libs/img/crash.dms)
 background-size: 450px
 background-position: 85% 50%
 
 --
 
-background-image: url(./assets/img/hug.gif)
+background-image: url(libs/img/hug.gif)
 background-size: 450px
 background-position: 85% 50%
 
 --
 
-background-image: url(./assets/img/despedirse.gif)
+background-image: url(libs/img/despedirse.dms)
 background-size: 450px
 background-position: 85% 50%
 
 --
 
-background-image: url(./assets/img/kisses.gif)
+background-image: url(libs/img/kisses.gif)
 background-size: 450px
 background-position: 85% 50%
 
 --
 
-background-image: url(./assets/img/pulgas.gif)
+background-image: url(libs/img/pulgas.gif)
 background-size: 450px
 background-position: 85% 50%
 
 --
 
-background-image: url(./assets/img/scratch.gif)
+background-image: url(libs/img/scratch.gif)
 background-size: 450px
 background-position: 85% 50%
 
 
 
 ---
+background-image: url(libs/img/rutina.jpg)
+background-size: 600px
+background-position: 50% 50%
 
+---
+class: center, middle
 
+![hug](libs/img/abrazo.gif)
 
-Funciones y formas: Verbos reflexivos
+---
+class: center, middle
+
+![spongebob](libs/img/spongebob.gif)
+
+---
+class: center, middle
+
+![dexter](libs/img/dexter.gif)
+
+---
+class: center, middle
+
+![acostar](libs/img/acostar.gif)
+
+---
+class: center, middle
+
+![vestirse](libs/img/vestirse.gif)
+
+---
+
+# Comparamos nuestras vidas en Middlebury con nuestras vidas en casa
+
+---
+
+# La segunda prueba oral vamos a ser...
+
+--
+
+![danny](libs/img/dannydevito.jpg)
+
+---
+# La segunda prueba oral vamos a ser...
+
+![art](libs/img/art.jpg)
+
+---
+class: center, middle
+
+# ¿Qué vocabulario necesitamos? 
+
+---
+
+# Actividad con fotos de las esculturas 
+
+---
+# Verbos recipricos practice (find it)
 
 ---
 Maps w/ sculpture - give them options
@@ -465,7 +549,21 @@ Preparación actividad e-Portafolio - Mi escultura preferida (1:30)
 
 ---
 
+# Tarea
 
+- Visitar las esculturas
+
+- Pensar en lo que quieres decir
+
+- Trabajar en la presentación 
+
+--
+
+**IMPORTANTE** Mañana durante clase vamos a caminar juntos a Axinn 229 para firmar la palabra de honor.
+
+---
+
+# Día 3 
 
 ---
 
