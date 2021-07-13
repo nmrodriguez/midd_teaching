@@ -1,0 +1,90 @@
+---
+title: "Capítulo 6"
+subtitle: "Español 1,5"
+author: "Nicole Rodríguez"
+institute: "Middlebury College"
+date: "2021/7/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [default, middlebury, middlebury-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: middle, center, inverse
+
+# Hacia el consumo responsable
+
+![consumo](libs/img/consumo.jpg)
+
+---
+class: middle, center, inverse
+
+# ¿Qué es el consumo responsable?
+
+---
+something with a connection from consumo responsable to object direct to review
+
+---
+
+then transition to indirect object
+
+---
+grammar explanation 
+
+---
+
+actividad
+
+
+---
+
+Kahoot
+
+---
+
+Más practica - ¿puede ser con algo tipo story telling?
+
+---
+
+Examen oral 1 practice - last 20 min 
+- citas rápidas 
+- what does each question mean 
+- make sure they know what time they are coming in 
+
+---
+Funciones y formas: Objeto indirecto
+
+Preparación 
+Examen Oral 1
+
+---
+class: middle, inverse, center
+# Día 2
+
+---
+warm up: 
+
+
+
+---
+Funciones y formas: Complemento directo
+Pretérito
+
+---
+class: middle, inverse, center
+# Día 3
+
+---
+
+Funciones y formas: Pretérito
+
+---
+
+Observaciones sobre mi progreso - Escuchar  los mp3 para e-Portafolio
+
+- evaluate my own progress - basically what you do for your own classes 
+  - but this time have the evaluate themselves
