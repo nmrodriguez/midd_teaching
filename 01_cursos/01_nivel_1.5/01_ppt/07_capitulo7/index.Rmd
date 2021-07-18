@@ -1,0 +1,527 @@
+---
+title: "Capítulo 7"
+subtitle: "Español 1,5"
+author: "Nicole Rodríguez"
+institute: "Middlebury College"
+date: "2021/7/18 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [default, middlebury, middlebury-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: center, middle, inverse
+
+# El mundo del deporte
+
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bKgAxlZX3Sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rEFRwFqJ3fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+class: center, middle, inverse
+
+# El pretérito (verbos irregulares)
+
+
+---
+
+# Algunos verbos irregulares en el pretérito:
+
+|                  |  ir      |     ser  |  dar    |   ver   |
+| ---------------- | -------- | -------- | ------- | ------- |
+| yo               | fui      | fui      | di      | vi      |
+| tú               | fuiste   | fuiste   | diste   | viste   |
+| Ud./él/ella      | fue      | fue      | dio     | vio     |
+| nosotros(as)     | fuimos   | fuimos   | dimos   | vimos   |
+| vosotros(as)     | fuisteis | fuisteis | disteis | visteis |
+| Uds./ellos/ellas | fueron   | fueron   | dieron  | vieron  |
+
+
+---
+
+# Algunos verbos irregulares en el pretérito: 
+
+### Los verbos con .RUred[u] en la raíz
+
+
+|      estar      |    poder      |   poner       |    saber      |   tener       |
+| :-------------- | ------------  | ------------- | ------------- | ------------- |
+| estuv**e**      | pud**e**      | pus**e**      | sup**e**      | tuv**e**      |
+| estuv**iste**   | pud**iste**   | pus**iste**   | sup**iste**   | tuv**iste**   |
+| estuv**o**      | pud**o**      | pus**o**      | sup**o**      | tuv**o**      |
+| estuv**imos**   | pud**imos**   | pus**imos**   | sup**imos**   | tuv**imos**   |
+| estuv**isteis** | pud**isteis** | pus**isteis** | sup**isteis** | tuv**isteis** |
+| estuv**ieron**  | pud**ieron**  | pus**ieron**  | sup**ieron**  | tuv**ieron**  |
+
+
+---
+
+# Algunos verbos irregulares en el pretérito: 
+
+### Los verbos con .RUred[i] en la raíz
+
+|     hacer     |      querer    |     venir     |
+| :------------ | -------------- | ------------- |
+| hic**e**      | quis**e**      | vin**e**      |
+| hic**iste**   | quis**iste**   | vin**iste**   |
+| hiz**o**      | quis**o**      | vin**o**      |
+| hic**imos**   | quis**imos**   | vin**imos**   |
+| hic**isteis** | quis**isteis** | vin**isteis** |
+| hic**ieron**  | quis**ieron**  | vin**ieron**  |
+
+---
+
+# Algunos verbos irregulares en el pretérito: 
+
+### Los verbos con .RUred[j] en la raíz
+
+|     conducir     |     decir     |     traer      |
+| :--------------- | ------------- | -------------- |
+| conduj**e**      | dij**e**      | traj**e**      |
+| condu**jiste**   | di**jiste**   | tra**jiste**   |
+| condu**jo**      | di**jo**      | tra**jo**      |
+| condu**jimos**   | di**jimos**   | tra**jimos**   |
+| condu**jisteis** | di**jisteis** | tra**jisteis** |
+| condu**jeron**   | di**jeron**   | tra**jeron**   |
+
+
+---
+
+# ¿Qué pasó?
+
+ <align="center">
+  <video width="450" allowfullscreen controls>
+    <source src="./libs/videos/maya.mp4" type="video/mp4">
+  </video>
+
+
+---
+
+# El pretérito (irregulares)
+
+.pull-left[
+
+- tener
+- estar
+- ir
+- ser
+- poner
+- poder
+- traer
+- hacer
+
+]
+
+.pull-right[
+
+- haber
+- saber
+- querer
+- decir
+- venir
+- ver
+- dar
+
+]
+
+---
+
+# El pretérito (irregulares)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iFUAWMMdE7c" frameborder="0" allowfullscreen>
+
+---
+
+# El pretérito (irregulares)
+
+ <style="float: right">
+  <img width="450" src="./assets/img/cucaracha.jpg">
+
+
+**tener** es tuve,  
+**estar** es estuve  
+**ir** es fui, y tambien **ser**  
+**poner** es puse, **poder** es pude  
+traje es para **traer**  
+
+
+
+**hacer** hice, **haber** hube  
+**saber** supe, **querer** quise  
+**decir** dije, **venir** vine  
+**ver** vi, **dar** di  
+sin acentos
+
+<audio controls>
+  <source src="./assets/videos/pretIrreg.ogg" type="audio/ogg">
+  <source src="./assets/videos/pretIrreg.m4a" type="audio/mpeg">
+</audio>
+
+---
+
+# Hay verbos con significados particulares en el pretérito.
+
+ <align="center">
+  <img width="800" src="./assets/img/preterito10.png">
+
+
+---
+
+# Resumen - los tiempos verbales
+
+### Las conversaciones normalmente incluyen el presente, el pasado y el futuro.
+
+**Carmen**: Oye, Silvia, ¿Qué &lt;black&gt;vas a hacer&lt;/black&gt; este fin de semana?  
+
+.RUred[Silvia]: ¡.black[Voy a estudiar]! La próxima semana .black[va a ser] muy ajetreada.  
+
+**Carmen**: Chica, prácticamente .black[vives] en la biblioteca.  
+
+.RUred[Silvia]: Sí, .black[es] cierto. Pero, ¿sabes?,.black[me gusta estudiar]. Mis clases .black[son] muy interesantes y .black[me encantan] mis profesores.  
+
+**Carmen**: ¿Y el profesor Suárez?  
+
+.RUred[Silvia]: Bueno, él sí .black[es] quisquilloso. La semana pasada nos .black[dio] un examen sobre la época medieval y .black[fue] dificilísimo. 
+
+---
+
+# Resumen - los tiempos verbales
+
+### El futuro puede expresarse con verbos en el tiempo presente.
+
+- Ir + a + infinitivo
+  - **Voy a estudiar** este fin de semana.
+
+--
+
+- Expresiones del futuro
+  - La próxima semana
+  - el año que viene
+
+--
+
+- Otros verbos que expresan el futuro
+  - **Pienso vivir** en la residencia el próximo semestre.
+  - **Espero trabajar** en un banco en el futuro. 
+
+---
+
+# Resumen - los tiempos verbales
+
+### El tiempo presente expresa las costumbres de la vida diaria.
+
+--
+
+- Palabras importantes: 
+  - todos los días, frecuentemente, a menudo, a veces  
+
+Todos los días estudio por dos o tres horas.
+
+---
+
+# Resumen - los tiempos verbales
+
+### Se usa **el pretérito** para expresar el pasado.  
+
+
+- UNA acción o evento que ocurrió UNA vez.
+
+--
+
+- una SERIE de acciones en el pasado.
+
+--
+
+- una acción que DURÓ un tiempo específico.
+
+--
+
+- UN EVENTO ESPECÍFICO en el pasado.
+
+
+**Palabras asociadas al pretérito:**
+
+--
+
+- ayer, la semana pasada, el año pasado, primero, luego
+- antes de/después de + infinitivo, por último
+
+---
+
+# Ahora, identifiquen los tiempos verbales en esta conversación:
+
+**Carmen**: Oye, Silvia, ¿Qué .black[vas a hacer] este fin de semana?  
+
+.RUred[Silvia]: ¡.black[Voy a estudiar]! La próxima semana .black[va a ser] muy ajetreada.  
+
+**Carmen**: Chica, prácticamente .black[vives] en la biblioteca.  
+
+.RUred[Silvia]: Sí, .black[es]cierto. Pero, ¿sabes?, .black[me gusta estudiar]. Mis clases .black[son] muy interesantes y .black[me encantan] mis profesores.  
+
+**Carmen**: ¿Y el profesor Suárez?  
+
+.RUred[Silvia]: Bueno, él sí .black[es] quisquilloso. La semana pasada nos .black[dio] un examen sobre la época medieval y .black[fue] dificilísimo. 
+
+---
+
+# Cambios ortográficos en la forma yo
+
+### -car (buscar, tocar, sacar) 
+
+- c > qu
+- **toqué**, tocaste, tocó, tocamos, tocasteis, tocaron
+
+--
+
+### -gar (llegar, jugar, pagar) 
+
+- g > gu
+- **llegué**, llegaste, llegó, llegamos, llegasteis, llegaron
+
+--
+
+### -zar (empezar, almorzar) 
+
+- z > c
+- **empecé**, empezaste, empezó, empezamos, empezasteis, empezaron
+
+---
+
+# Los verbos de –er y –ir con una vocal: Leer, creer y caerse
+
+### Leer
+
+- leí, leíste, le**y**ó, leímos, leísteis, le**y**eron
+
+--
+
+### Creer
+
+- creí, creíste, cre**y**ó, creímos, creísteis, cre**y**eron
+
+--
+
+### Caerse
+
+- me caí, te caíste, se ca**y**ó, nos caímos, os caísteis, se ca**y**eron
+
+---
+
+# Verbos con cambios en la raíz en el pretérito: 
+
+|                  |       e > i           |           o > u     |
+| ---------------- | --------------------- | ------------------- |
+|                  | .blue[div**e**rtirse] | .blue[]d**o**rmir]  |
+| yo               | me divertí            | dormí               |
+| tú               | te divertiste         | dormiste            |
+| Ud./él/ella      | se div**i**rtió       | d**u**rmió          |
+| nosotros(as)     | nos divertimos        | dormimos            |
+| vosotros(as)     | os divertisteis       | dormisteis          |
+| Uds./ellos/ellas | se div**i**rtieron    | d**u**rmieron       |
+
+
+- ¡**OJO**!: Estos cambios sólo ocurren en la tercera persona (o segunda persona formal)  
+(Ud., él, ella y Uds., ellos, ellas)
+
+---
+background-image: url("http://nationalinterest.org/files/styles/main_image_on_posts/public/main_images/uss_new_jersey_6219214852.jpg?itok=gO7-Wwi6")
+background-position: 50% 65%
+background-size: 500px
+
+# Batalla naval
+
+- Poned vuestros barcos en el papel
+- Conjugad los verbos en el pretérito para hundir 
+los de tu compañer@
+
+---
+# Otra presentacion
+
+# Descripción de un proceso en el pasado.
+
+
+Debes preparar un proceso, un acontecimiento  de 2 minutos.
+
+.pull-left[
+**Opción 1**: Puedes usar un PowerPoint de 6 diapositivas de una palabra cada una) que están con un límite de 20 segundos cada uno (total 2 minutos). (Transitions-> No Transition-> Options - en la última línea de esta caja de diálogo hay que indicar que las transiciones se hace “automáticamente después de 20 segundos”)
+]
+
+.pull-right[
+**Opción 2**: Puedes usar carteles de papel o tarjetas hechos a mano o en la computadora. Tienen que ser suficientemente grandes para que el público las pueda ver.
+Casi todos los verbos van a estar en el pretérito.
+El proceso debe estar estructurado de la siguiente manera:
+Primero decidí hacer esto
+Luego hice esta preparación
+Empecé así
+Continué así
+Terminé el proceso de esta manera
+Opinión sobre el resultado (en el presente – me gusta, o la próxima vez voy a hacerlo de otra manera)
+NO debes escribir NUNCA NADA de texto. Solamente te debes basar en una ficha con una palabra (un verbo en el pretérito) que es la estructura básica de tu proceso. Es mejor usar el PPT como apoyo para la memoria.
+
+Ejemplo:
+ 
+Decidí
+Busqué
+Corté
+Perforé
+Cosí
+Decoré
+
+]
+
+---
+# Tarea
+
+- Ir a una actividad co-curricular
+
+- Practicar el pretérito
+
+- Pensar en la presentación para el viernes
+
+---
+class: middle, center, inverse
+
+
+# Día 2
+
+day 2: el tiempo y las estaciones
+preterito
+preparacion como lo hiciste
+
+---
+# Precalentamiento 
+
+Practice with the preterite 
+
+---
+
+Something with soccer 
+
+
+---
+day 3: como lo hiciste prestntation
+que pasó ayer
+pronombres
+---
+
+soemthing with random ass sports in spanish speaking coutnries 
+---
+
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/think.png)
+background-position: 95% 50%
+
+# Los pronombres después de preposiciones
+
+### ¿Recordáis?
+
+- (&lt;blue&gt;A&lt;/blue&gt; **mí**) me gusta el chocolate. 
+
+--
+
+- (&lt;blue&gt;A&lt;/blue&gt; **nosotros**) nos interesa el tema. 
+
+--
+
+- (&lt;blue&gt;A&lt;/blue&gt; **ellas**) les motiva el tiempo. 
+
+--
+
+- Les parece bien la idea (&lt;blue&gt;a&lt;/blue&gt; **ustedes**). 
+
+--
+
+### ¿Qué tienen en común?
+
+--
+
+- También son pronombres
+
+--
+
+- También aparecen detrás de otras preposiciones
+
+---
+
+# Los pronombres después de preposiciones
+
+.pull-left[
+
+- **Rick**: ¿Este café es &lt;black&gt;para mí&lt;/black&gt;?
+- .RUred[Chad]: ¿&lt;black&gt;Para ti&lt;/black&gt;? ¡No! Ese café es &lt;black&gt;para ella&lt;/black&gt;.
+
+&lt;p&gt;&lt;/p&gt;
+
+- **Grace**: ¿Quién habla &lt;black&gt;de nosotros&lt;/black&gt;?
+- .RUred[Ari]: Sólo hablan &lt;black&gt;de ti&lt;/black&gt;.
+
+&lt;p&gt;&lt;/p&gt;
+
+- **Sara**: ¿Vienes &lt;black&gt;con nosotras&lt;/black&gt; al senderismo?
+- .RUred[Aviva]: Sí. No quiero ir &lt;black&gt;sin ustedes&lt;/black&gt;. 
+
+]
+
+--
+
+.pull-right[
+
+|       |                      |                       |
+| :---- | :------------------: | :-------------------- |
+| a     |                      | mí                    |
+| de    |                      | ti                    |
+| para  |                      | usted, él, ella       |
+| por   |          +           | nosotros/as           |
+| sin   |                      | vosotros/as           |
+| sobre |                      | ustedes, ellos, ellas |
+| | &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; | |
+
+]
+
+--
+
+### ¡**Ojo**! Excepciones...
+
+--
+
+con + mí = conmigo  
+con + ti = contigo
+
+- **Carmen**: Oye, Madeline La fiesta es mañana. ¿Quieres ir &lt;black&gt;conmigo&lt;/black&gt;?
+- .RUred[Madeline]: No puedo ir &lt;black&gt;contigo&lt;/black&gt;, Carmen Todavía no tengo disfraz. 
+
+&lt;p&gt;&lt;/p&gt;
+
+--
+
+&lt;p&gt;&lt;/p&gt;
+
+- **Camila**: Oye, ¿crees que los profesores trabajan mucho?
+- .RUred[Susan]: Dicen que sí, pero **entre tú y yo**, creo que mienten. 
+
+---
+
+# Actividad
+
+### Haciendo planes
+
+- ir al cine/teatro  
+A: ***¿Cuándo puedes ir al cine conmigo?***  
+B: ***Nunca puedo ir contigo.***
+
+1. estudiar español
+2. ir a Dos Hermanos
+3. jugar al vóleibol
+4. preparar una fiesta
