@@ -348,6 +348,14 @@ background-size: 500px
 los de tu compañer@
 
 ---
+
+actividad
+
+---
+
+Kahoot 
+
+---
 # Otra presentacion
 
 # Descripción de un proceso en el pasado.
