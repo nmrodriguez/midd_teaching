@@ -146,11 +146,12 @@ class: center, middle, inverse
 ---
 
 # El pretérito (irregulares)
-
+.pull-left[
  <style="float: right">
-  <img width="450" src="./assets/img/cucaracha.jpg">
+  <img width="450" src="./libs/img/cucaracha.jpg">
+  ]
 
-
+.pull-right[
 **tener** es tuve,  
 **estar** es estuve  
 **ir** es fui, y tambien **ser**  
@@ -164,10 +165,11 @@ traje es para **traer**
 **decir** dije, **venir** vine  
 **ver** vi, **dar** di  
 sin acentos
+]
 
 <audio controls>
-  <source src="./assets/videos/pretIrreg.ogg" type="audio/ogg">
-  <source src="./assets/videos/pretIrreg.m4a" type="audio/mpeg">
+  <source src="./libs/videos/pretIrreg.ogg" type="audio/ogg">
+  <source src="./libs/videos/pretIrreg.m4a" type="audio/mpeg">
 </audio>
 
 ---
@@ -175,7 +177,7 @@ sin acentos
 # Hay verbos con significados particulares en el pretérito.
 
  <align="center">
-  <img width="800" src="./assets/img/preterito10.png">
+  <img width="800" src="./libs/img/preterito10.png">
 
 
 ---
@@ -184,7 +186,7 @@ sin acentos
 
 ### Las conversaciones normalmente incluyen el presente, el pasado y el futuro.
 
-**Carmen**: Oye, Silvia, ¿Qué &lt;black&gt;vas a hacer&lt;/black&gt; este fin de semana?  
+**Carmen**: Oye, Silvia, ¿Qué .black[vas a hacer] este fin de semana?  
 
 .RUred[Silvia]: ¡.black[Voy a estudiar]! La próxima semana .black[va a ser] muy ajetreada.  
 
@@ -348,12 +350,23 @@ background-size: 500px
 los de tu compañer@
 
 ---
+# Mi vida deportiva de niñ@
 
-actividad
+- Pensad en vuestras vidas deportivas de niñ@s
+
+- ¿Hubo un partido, un momento, o algo especial para ti en relación a los deportes?
+
+- Describidlo 
+
+- Compartidlo con un@ compañer@
+
+
 
 ---
 
-Kahoot 
+# Kahoot 
+
+https://play.kahoot.it/v2/?quizId=980c6ba4-e282-456f-b182-1892a1dc62d7 
 
 ---
 # Otra presentacion
@@ -363,11 +376,12 @@ Kahoot
 
 Debes preparar un proceso, un acontecimiento  de 2 minutos.
 
-.pull-left[
-**Opción 1**: Puedes usar un PowerPoint de 6 diapositivas de una palabra cada una) que están con un límite de 20 segundos cada uno (total 2 minutos). (Transitions-> No Transition-> Options - en la última línea de esta caja de diálogo hay que indicar que las transiciones se hace “automáticamente después de 20 segundos”)
-]
 
-.pull-right[
+**Opción 1**: Puedes usar un PowerPoint de 6 diapositivas de una palabra cada una) que están con un límite de 20 segundos cada uno (total 2 minutos). (Transitions-> No Transition-> Options - en la última línea de esta caja de diálogo hay que indicar que las transiciones se hace “automáticamente después de 20 segundos”)
+
+
+---
+
 **Opción 2**: Puedes usar carteles de papel o tarjetas hechos a mano o en la computadora. Tienen que ser suficientemente grandes para que el público las pueda ver.
 Casi todos los verbos van a estar en el pretérito.
 El proceso debe estar estructurado de la siguiente manera:
@@ -388,7 +402,7 @@ Perforé
 Cosí
 Decoré
 
-]
+
 
 ---
 # Tarea
@@ -405,27 +419,128 @@ class: middle, center, inverse
 
 # Día 2
 
-day 2: el tiempo y las estaciones
-preterito
-preparacion como lo hiciste
-
 ---
 # Precalentamiento 
 
-Practice with the preterite 
+1.  Yo **empezar** a relajarme.
+
+2. Tú no **poder** hacerlo sin ayuda. 
+
+3. ¿Quién **entender** ese diálogo?
+
+4.  La camarera **servir** una paella rica.
+
+5.  Ellos **volver** a la universidad .
 
 ---
 
-Something with soccer 
+# El calor y el fútbol
+
+https://cnnespanol.cnn.com/video/qatar-copa-mundial-2022-estadio-control-clima-climatico-calor-portafolio-global-cnnee/
+
+---
+class: middle, center, inverse 
+
+# El tiempo y las estaciones 
+
+¡ A dibujar!
+
+---
+
+![clima](libs/img/c)
+
+---
+# Expresiones útiles para describir el clima
+
+.pull-left[
+- ¿Qué tiempo hace?
+
+- Hace frío.
+
+- Hace calor. 
+
+- Hace viento. 
+
+- Hace sol. 
+
+- Hace buen tiempo.
+
+- Hace mal tiempo. 
+
+- Hace fresco. 
+
+]
+
+.pull-right[
+
+- Hay niebla. 
+
+- Hay neblina. 
+
+- Hay humedad.
+
+- Está nublado.
+
+- Nieva.
+
+- Truena.
+
+- Llovizna.
+
+]
+
+---
+# Con tu compañer@
+
+- Hablad de vuestra estación favorita.
+
+- ¿Por qué te gusta? 
+
+- ¿Qué te gusta hacer en esa estación?
+
+--
+
+- Ahora hablad del clima de lugares que visitastéis
+
+- p.e.: Me encanta el clima de Vermont, hace fresco. 
+
+- Pero, no me gusta el clima de Florida. Hace demasiado calor. 
+
+---
+class: center, middle, inverse
+
+# Cómo lo hiciste
+
+# Preparación
+
+---
+class: inverse, center, middle
+
+# Día 3
+
+---
+
+https://wearemitu.com/wearemitu/entertainment/11-unusual-sports-you-can-find-in-latin-america/ 
+
+- turn this into a jigsaw or an activity of some sort
 
 
 ---
-day 3: como lo hiciste prestntation
-que pasó ayer
-pronombres
----
+class: center, middle, inverse
+# Qué pasó ayer?
 
-soemthing with random ass sports in spanish speaking coutnries 
+---
+# ¿Qué pasó durante estos juegos importantes?
+
+#### Crowdsourcing un cuento de nuevo. 
+
+- Cada groupo va a tener una foto. 
+
+- Una persona va a escribir una oración en el pasado. 
+
+- Cuando dice la profe, cambiamos y la siguiente persona va a escribir otra oración para seguir el cuento.
+
+
 ---
 
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/think.png)
@@ -435,19 +550,19 @@ background-position: 95% 50%
 
 ### ¿Recordáis?
 
-- (&lt;blue&gt;A&lt;/blue&gt; **mí**) me gusta el chocolate. 
+- (.blue[A] **mí**) me gusta el chocolate. 
 
 --
 
-- (&lt;blue&gt;A&lt;/blue&gt; **nosotros**) nos interesa el tema. 
+- (.blue[A] **nosotros**) nos interesa el tema. 
 
 --
 
-- (&lt;blue&gt;A&lt;/blue&gt; **ellas**) les motiva el tiempo. 
+- (.blue[A] **ellas**) les motiva el tiempo. 
 
 --
 
-- Les parece bien la idea (&lt;blue&gt;a&lt;/blue&gt; **ustedes**). 
+- Les parece bien la idea (.blue[a] **ustedes**). 
 
 --
 
@@ -467,18 +582,16 @@ background-position: 95% 50%
 
 .pull-left[
 
-- **Rick**: ¿Este café es &lt;black&gt;para mí&lt;/black&gt;?
-- .RUred[Chad]: ¿&lt;black&gt;Para ti&lt;/black&gt;? ¡No! Ese café es &lt;black&gt;para ella&lt;/black&gt;.
+- **Rick**: ¿Este café es .black[para mí]
+- .RUred[Chad]: ¿.blac[Para ti]? ¡No! Ese café es .black[para ella].
 
-&lt;p&gt;&lt;/p&gt;
 
-- **Grace**: ¿Quién habla &lt;black&gt;de nosotros&lt;/black&gt;?
-- .RUred[Ari]: Sólo hablan &lt;black&gt;de ti&lt;/black&gt;.
+- **Grace**: ¿Quién habla .black[de nosotros]?
+- .RUred[Ari]: Sólo hablan .black[de ti]
 
-&lt;p&gt;&lt;/p&gt;
 
-- **Sara**: ¿Vienes &lt;black&gt;con nosotras&lt;/black&gt; al senderismo?
-- .RUred[Aviva]: Sí. No quiero ir &lt;black&gt;sin ustedes&lt;/black&gt;. 
+- **Sara**: ¿Vienes .black[con nosotras] al senderismo?
+- .RUred[Aviva]: Sí. No quiero ir .black[sin ustedes]. 
 
 ]
 
@@ -486,19 +599,19 @@ background-position: 95% 50%
 
 .pull-right[
 
-|       |                      |                       |
-| :---- | :------------------: | :-------------------- |
-| a     |                      | mí                    |
-| de    |                      | ti                    |
-| para  |                      | usted, él, ella       |
-| por   |          +           | nosotros/as           |
-| sin   |                      | vosotros/as           |
-| sobre |                      | ustedes, ellos, ellas |
-| | &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; | |
+|       |                       | 
+| ----- | --------------------- |
+| a     | mí                    |
+| de    | ti                    |
+| para  | usted, él, ella       |
+| por   | nosotros/as           |
+| sin   | vosotros/as           |
+| sobre | ustedes, ellos, ellas |
+
 
 ]
 
---
+---
 
 ### ¡**Ojo**! Excepciones...
 
@@ -507,14 +620,14 @@ background-position: 95% 50%
 con + mí = conmigo  
 con + ti = contigo
 
-- **Carmen**: Oye, Madeline La fiesta es mañana. ¿Quieres ir &lt;black&gt;conmigo&lt;/black&gt;?
-- .RUred[Madeline]: No puedo ir &lt;black&gt;contigo&lt;/black&gt;, Carmen Todavía no tengo disfraz. 
+- **Carmen**: Oye, Madeline La fiesta es mañana. ¿Quieres ir .black[conmigo]?
+- .RUred[Madeline]: No puedo ir .black[contigo], Carmen Todavía no tengo disfraz. 
 
-&lt;p&gt;&lt;/p&gt;
+
 
 --
 
-&lt;p&gt;&lt;/p&gt;
+
 
 - **Camila**: Oye, ¿crees que los profesores trabajan mucho?
 - .RUred[Susan]: Dicen que sí, pero **entre tú y yo**, creo que mienten. 
@@ -533,3 +646,7 @@ B: ***Nunca puedo ir contigo.***
 2. ir a Dos Hermanos
 3. jugar al vóleibol
 4. preparar una fiesta
+
+---
+
+# Más practica para la presentación
