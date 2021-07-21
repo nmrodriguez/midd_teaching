@@ -26,8 +26,20 @@ class: center, middle
 
 ---
 class: center, middle
+# ¿Qué pasó en el video? 
+
+# ¿Qué piensas?
+
+---
+class: center, middle
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rEFRwFqJ3fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+class: center, middle
+# ¿Qué pasó en el video? 
+
+# ¿Qué piensas?
 
 ---
 
