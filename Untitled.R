@@ -1,11 +1,11 @@
 # number of students
-x <- 12
+x <- 13
 
 # number of times you want list to run
 r <- 1
 
 # list
-mylist <- c('chanel', 'alausi', 'evelyn', 'gillian', 'dawn', 'carmen', 'maya', 'ryan', 'india', 'rin', 'grace', 'ben')
+mylist <- c('chanel', 'alausi', 'evelyn', 'gillian', 'dawn', 'carmen', 'maya', 'ryan', 'india', 'rin', 'grace', 'ben', 'kristine')
 
 # randomizer
 randommatrix <- matrix(nrow = x, ncol = r)
