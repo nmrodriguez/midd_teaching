@@ -5,7 +5,7 @@ x <- 13
 r <- 1
 
 # list
-mylist <- c('chanel', 'alausi', 'evelyn', 'gillian', 'dawn', 'carmen', 'maya', 'ryan', 'india', 'rin', 'grace', 'ben', 'kristine')
+mylist <- c('chanel', 'alausi', 'evelyn', 'gillian', 'dawn', 'carmen', 'maya', 'ryan', 'india', 'rin', 'grace', 'ben', 'kristina')
 
 # randomizer
 randommatrix <- matrix(nrow = x, ncol = r)

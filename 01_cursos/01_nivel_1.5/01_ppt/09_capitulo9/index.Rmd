@@ -282,7 +282,22 @@ class: center, middle, inverse
 # Día 3 
 
 ---
+# Precalentamiento 
 
+Rellenad las oraciones con el imperfecto o el pretérito en un papel para entregar a Nicole
+
+
+
+Una vez **(haber)** tres osos que **(vivir)** en una casa linda en el bosque: 
+Papá Oso, Mamá Osa, y Bebé Oso. 
+Un día Mamá Osa **(hacer)** una sopa rica y **(poner)** tres platos en la mesa. 
+Como **(ser)** mediodía, todos **(sentarse)** para comer porque **(tener)** muchísima hambre. 
+Primero Papá Oso **(probar)** la sopa y **(decir)** ¡Está demasiado caliente! 
+Entonces Bebé Oso y Mamá Osa **(querer)** comerla pero no **(poder)** 
+porque su sopa **(estar)** tan caliente como la sopa de Papá Oso. 
+Por eso la familia de tres osos **(decidir)** dar un paseo mientras **(enfriarse)** la sopa.   **(ser)** un día bonito de verano y **(hacer)** sol.
+
+---
 **RICARDO**: Buenos días. Le habla Ricardo Roldán Díaz. Vi en la página web de su compañía que buscan un asistente de contador. Me gustaría solicitar el puesto.
 
 **RECEPCIONISTA**: Muy bien, Sr. Roldán. Por favor, *busque* la solicitud en nuestra página web, en la sección donde anunciamos los puestos. *Llene* la solicitud y *mándenosla* pronto. Se aceptan solicitudes hasta mañana.
@@ -434,7 +449,7 @@ El "no" para formar un mandato negativo siempre va primero.
 6. Clara, al terminar el proyecto, ________ melo (mandar) por correo electrónico.
 
 
---- 
+---
 # Una obra maestra 
 
 - En grupos, vamos a crear un cuento/escena/obra pequeña para actuar en clase

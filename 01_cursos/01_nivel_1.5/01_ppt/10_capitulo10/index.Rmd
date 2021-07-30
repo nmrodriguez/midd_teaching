@@ -1,0 +1,463 @@
+---
+title: "Capítulo 10"
+subtitle: "Español 1,5"
+author: "Nicole Rodríguez"
+institute: "Middlebury College"
+date: "2021/7/30 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [default, middlebury, middlebury-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: center, middle, inverse
+
+# La alimentación sostenible
+
+---
+
+Funciones y formas: SE pasivo
+
+
+---
+class: middle
+**PROFESOR**: En Estados Unidos se consumen muchos carbohidratos y mucha grasa. ¿Sabían ustedes que en este país se comen aproximadamente 23 libras de pizza por persona al año?
+
+**RICARDO**: [piensa] ¿Cuánta cerveza se bebe con 23 pizzas?
+
+**PROFESOR**: Se comen solo 18 libras de manzanas, pero 112 libras de carne roja…
+
+**RICARDO**: [piensa] En esta clase se aprende mucho.
+
+---
+
+# Se pasivo 
+
+Se + verb constructions
+• Spanish uses the construction se + verb to emphasize the occurrence of an action rather than the person(s) responsible for that action. The noun (what is bought, sold, offered, etc.) usually follows the verb. The person who buys, sells, offers, and so on, is not mentioned. This is normally expressed in English with the passive voice (is/are + past participle).
+
+
+Se habla español en este restaurante.	Spanish is spoken in this restaurant.
+• Use a singular verb with singular nouns and a plural verb with plural nouns.
+
+
+Se necesita un horno para hacer galletas.	An oven is needed to make cookies.
+Se venden vegetales allí.	Vegetables are sold there.
+• Use a singular verb when the se + verb construction is followed by an adverb, an infinitive, or a clause. This is expressed in English with they, you, one, and people.
+
+Se trabaja mucho en ese manzanal.	They work a lot in that apple orchard.
+Se puede comprar una variedad de manzanas allí.	You/One can buy a variety of apples there.
+Se dice que venden sidra también.	People say they sell cider also.
+
+---
+
+Completamos las oraciones con se y la forma correcta del verbo.
+
+1. (**vender**) pasteles en la pastelería. 
+
+2. El ceviche (**preparar**) con pescado y mariscos. 
+
+3. (**poder**) freír o asar la carne de res. 
+
+4. (**decir**) que la comida de ese restaurante es excelente. 
+
+5. En ese restaurante (**cocinar**) los mejores platos ecuatorianos. 
+
+6. (**sugerir**) beber vino blanco con el pescado. 
+
+---
+
+ Selecciona el lugar donde ocurre cada actividad. Luego compara tus respuestas con las de tu compañero/a.
+
+1. _________ Se cambian cheques en…
+
+2. _________ Se vende ropa en…
+
+3. _________ Se toma el sol y Se nada en…
+
+4. _________ Se sirven comidas en…
+
+5. _________ Se ofrece trabajo en…
+
+a. un almacén o una tienda.
+
+b. los anuncios en línea.
+
+c. un banco.
+
+d. una playa.
+
+e. un restaurante.
+
+---
+Actividad en parejas
+
+---
+Otra actividad en parejas
+---
+class: center, middle
+# Instrucciones Cómo dar instrucciones (2 minutos)
+
+---
+class: center, middle, inverse 
+
+# Día 2 
+
+---
+
+# Repasamos: Los mandatos formales 
+Funciones y formas: Mandatos,
+
+ Marcos, la buena alimentación es fundamental para la buena salud. desayuna siempre para no tener hambre por las mañanas. Para tener energía, consume carbohidratos y proteínas en las tres comidas. Come carbohidratos complejos, como pasta y pan, pero siempre integrales (whole-grain). No olvides las frutas, las verduras y la leche; son muy buenas para la salud. Evita (Avoid) comer azúcares en grandes cantidades. Limita tu consumo de grasas también y no comas muchos dulces.
+ 
+Piénsalo. Indica si las instrucciones del enfermero para tu amigo Marcos son afirmativas (A) o negativas (N). Luego, escribe el infinitivo del verbo conjugado.
+
+ 	¿AFIRMATIVA O NEGATIVA?	INFINITIVO
+1. desayuna siempre.	_________	_________
+2. Consume carbohidratos y proteínas.	_________	_________
+3.
+
+No olvides las frutas, las verduras y la leche.	_________	_________
+4. Evita comer azúcares en grandes cantidades.	_________	_________
+5. Limita el consumo de grasas.	_________	_________
+6. No comas muchos dulces.	_________	_________
+
+Informal commands
+• To ask a friend to do or not to do something, use an informal command. Use that form with anyone else you address as tú, such as someone your own age or someone with whom you have a close relationship.
+
+Pásame la sal.	Pass me the salt.
+mira esta foto.	Look at this photo.
+Lee las instrucciones.	Read the instructions.
+Préstame tu lápiz.	Lend me your pencil.
+• To form the affirmative tú command, use the present indicative tú form without the final -s.
+
+ 	PRESENT INDICATIVE	AFFIRMATIVE TÚ COMMAND
+cocinar	cocinas	cocina
+beber	bebes	bebe
+consumir	consumes	consume
+• For the negative tú command, use the negative usted command form and add the final -s.
+
+ 	NEGATIVE USTED COMMAND	NEGATIVE TÚ COMMAND
+preparar	no prepare	no prepares
+comer	no coma	no comas
+subir	no suba	no subas
+
+
+• Placement of object and reflexive pronouns with tú commands is the same as with usted commands.
+
+AFFIRMATIVE COMMAND	NEGATIVE COMMAND
+Prepárelo (usted).	No lo prepare (usted).
+Bébela (tú).	No la bebas (tú).
+Siéntese (usted) aquí.	No se siente (usted) aquí.
+Acuéstate (tú).	No te acuestes (tú).
+• The plural of tú commands in Latin American Spanish is the ustedes command.
+
+Cocina (tú).	Cocinen (ustedes).
+Bebe (tú).	Beban (ustedes).
+Sube (tú).	Suban (ustedes).
+• Some -er and -ir verbs have shortened affirmative tú commands, but their negative command forms follow the pattern that you have already learned for formal commands.
+
+ 	AFFIRMATIVE (tú)	NEGATIVE (tú)
+poner	pon	no pongas
+salir	sal	no salgas
+tener	ten	no tengas
+venir	ven	no vengas
+hacer	haz	no hagas
+decir	di	no digas
+ir	ve	no vayas
+ser	sé	no seas
+Sal a las tres si quieres llegar a las cuatro.	Leave at 3:00 if you want to arrive at 4:00.
+No salgas sin paraguas; va a llover.	Don't leave without an umbrella; it is going to rain.
+Sé generoso con tus amigos.	Be generous with your friends.
+No seas impaciente.	Don't be impatient.
+dime la verdad.	Tell me the truth.
+No nos digas mentiras.	Don't tell us any lies.
+ ¿Comprendes? Completa la conversación con la forma correcta del verbo entre paréntesis.
+
+MARIO: ¿Cómo preparo un buen asado?
+
+XIMENA: (1) _________ (Comprar) carne blanda (tender).
+
+No (2) _________ (comprar) carne barata.
+
+MARIO: ¿Y luego?
+
+XIMENA: (3) _________ (Ponerle) sal y pimienta a la carne.
+
+No (4) _________ (poner) demasiada sal.
+
+
+10-33 Una cura de reposo. Tu amigo/a estuvo muy enfermo/a. Su médico le recomendó pasar dos semanas de descanso en las termas de Papallacta, en Ecuador. Como tú has visitado este lugar, dile a tu amigo/a qué puede hacer allí. Después, cambien de papel.
+
+MODELO
+
+disfrutar de la tranquilidad
+
+E1: Disfruta de la tranquilidad y no uses tu celular.
+
+E2: Y, ¿qué más puedo hacer?
+
+1. disfrutar del sol
+
+2. respirar aire puro y descansar
+
+3. no hacer la tarea
+
+4. tomar fotos y hacer videos
+
+5. probar un plato típico ecuatoriano en el restaurante Pumamaki
+
+6. salir por las noches y conversar con las personas del lugar
+
+7. tomar baños termales todos los días
+
+8. asistir a un concierto de música andina
+
+9. salir a caminar todos los días
+
+10. llevar ropa apropiada para las noches frías de los Andes
+
+ 10-34 Tareas pendientes. PREPARACIÓN. Ustedes están a cargo de un restaurante donde se va a celebrar una cena formal. Túrnense para recordarse (remind each another) las tareas pendientes.
+
+MODELO
+
+lavar la vajilla (set of dishes) fina / limpiar el piso
+
+E1: Lava la vajilla fina.
+
+E2: Por supuesto. / Inmediatamente. Y tú, limpia el piso, ¿vale?
+
+E1: Vale. / De acuerdo.
+
+Tareas pendientes: Empleado/a 1	Tareas pendientes: Empleado/a 2
+1. comprar temprano los pescados y mariscos frescos	1. ser puntual
+2. no hacer pan blanco; hacer pan integral (whole-wheat)	2. sacar las verduras del congelador (freezer)
+3. tener las mesas puestas a las 4:00	3. asar el pescado media hora antes de la cena
+4. no poner los manteles plásticos; poner los de lino	4. preparar las ensaladas y los platos principales
+5. no poner música rock; poner música suave	5. imprimir (to print) el programa con los nombres de los invitados
+
+---
+# ¡Ayuda!
+
+La primera cita tuvo algunos problemas. Háganse recomendaciones para mejorar la próxima vez.
+
+MODELO
+
+Derramaste agua en la mesa :(
+
+La próxima vez, **ten** cuidado cuando sirves agua.
+
+Problemas con la cena formal.
+1. Las ensaladas estaban saladas.	 
+2. El pescado se quemó.	 
+3. Había manchas en las copas.	 
+4. Nadie imprimió el programa.	 
+5. Dos camareros llegaron tarde.	 
+6. Una camarera se cayó con los platos porque el piso estaba mojado.	
+
+---
+
+Relay race 
+
+---
+class: center, middle
+
+# Preparación: Cómo dar instrucciones (2 minutos)
+
+# orden de la presentaciones 
+
+---
+class: center, middle, inverse
+
+# Día 3
+
+---
+class: center, middle, inverse 
+
+# Presentaciones: cómo dar instrucciones 
+
+---
+class: center, middle, inverse 
+
+# El futuro
+
+## ¿Cómo formamos el futuro? 
+
+---
+
+# Repaso
+
+- ir + a + infinitivo 
+
+- ejemplo: Nosotros vamos a despedirnos pronto :( 
+
+--
+
+- Hablad con vuestr@s compañer@s para decir que vais a hacer después de clase. 
+
+---
+class: center
+# ¡¡Pero, espera!! ¡¡Podemos expresar el futuro de otra manera !! 
+
+![blink](libs/img/blink.gif)
+
+
+---
+
+# Como formamos el futuro 
+
+- Añadimos la terminación apropiada al final del infinitivo del verbo. 
+
+| Sujeto        | Terminación |
+| ------------- | ----------- |
+| yo            | -é          |
+| tú            | -ás         |
+| usted/él/ella | -á          |
+| nosotros      | -emos       |
+| vosotros      | -éis        |
+| Uds/ell@s     | -án         |
+
+
+--
+
+Anita **estará** en la playa ahora.
+
+Los niños **tendrán** hambre.
+
+¿Cuántos años **tendrá** el profesor?
+
+---
+
+# ¿Cuándo usamos el futuro simple?
+
+1 - Para hablar de posibilidades y probabilidades 
+
+- **Serán** las ocho de la mañana.
+
+- ¿Dónde **estarán** mis llaves?
+
+--
+
+2 - Para hacer predicciones sobre el futuro 
+
+- Me **casaré** con Harry Styles.
+
+- **Encontrará** un trabajo bueno.
+
+---
+class: center, middle, inverse 
+
+# pero... hay formas irregulares :/
+
+![sad](libs/img/sad.gif)
+
+---
+
+# Los irregulares en el futuro
+
+## Hay tres categorias 
+
+- los verbos que pierden la 'e' o 'i' de la forma infinitiva y añaden una 'd'
+- los verbos que pierden la 'e' o 'i' de la forma infinitiva
+- los verbos que no siguen un patrón :(
+
+---
+
+# Los verbos que pierden la 'e' o 'i' de la forma infinitiva y añaden una 'd'
+
+Ejemplo: Tener 
+
+| Sujeto        | Verbo       |
+| ------------- | ----------- |
+| yo            | tendré      |
+| tú            | tendrás     |
+| usted/él/ella | tendrá      |
+| nosotros      | tendremos   |
+| vosotros      | tendréis    |
+| Uds/ell@s     | tendrán     |
+
+---
+
+Otros verbs como "tener"
+
+| Verbo         | forma sin terminación |
+| ------------- | --------------------- |
+| ponder        | pondr-                |
+| valer         | valdr-                |
+| salir         | saldr-                |
+| venir         | vendr-                |
+
+
+**Tendré** un profesor bueno en esa clase.
+
+---
+
+# Los verbos que pierden la 'e' o 'i' de la forma infinitiva
+
+Ejemplo: Poder 
+
+| Sujeto        | Verbo       |
+| ------------- | ----------- |
+| yo            | podré       |
+| tú            | podrás      |
+| usted/él/ella | podrá       |
+| nosotros      | podremos    |
+| vosotros      | podréis     |
+| Uds/ell@s     | podrán      |
+
+---
+
+Otros verbs como "poder"
+
+| Verbo         | forma sin terminación |
+| ------------- | --------------------- |
+| caber         | cabr-                 |
+| haber         | habr-                 |
+| saber         | sabr-                 |
+| querer        | querr-                |
+
+**Podrás** hablar español muy pronto. 
+
+**Habrá** mucha gente en la fiesta. 
+
+---
+
+# Los verbos que no siguen un patrón :(
+
+Ejemplo: Decir and Hacer 
+
+| Sujeto        | Decir       | Hacer      |
+| ------------- | ----------- | ---------- |
+| yo            | diré        | haré       |
+| tú            | dirás       | harás      |
+| usted/él/ella | dirá        | hará       |
+| nosotros      | diremos     | haremos    |
+| vosotros      | diréis      | haréis     |
+| Uds/ell@s     | dirán       | harán      |
+
+
+**Diréis** la verdad.
+
+Ellos **harán** el pastel para la clase. 
+
+---
+
+# Hablad con vuestr@s compañer@s sobre vuestros planes para el fin de semana
+
+## ¡Usad el futuro simple!
+
+**Ejemplo:** Iré a Mister Ups este fin de semana. Correré 3 millas. Comeré comida en American Flatbread. 
+
+---
+class: center, middle
+# Nuestros horóscopos
+
+---
+class: center, middle
+# Citas rápidas
+
+---
+Kahoot
