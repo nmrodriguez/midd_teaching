@@ -19,8 +19,9 @@ class: center, middle, inverse
 
 ---
 
-Funciones y formas: SE pasivo
+# Precalentamiento 
 
+Escriban 3 mandatos para el director de la escuela de Español. 
 
 ---
 class: middle
@@ -36,25 +37,35 @@ class: middle
 
 # Se pasivo 
 
-Se + verb constructions
-• Spanish uses the construction se + verb to emphasize the occurrence of an action rather than the person(s) responsible for that action. The noun (what is bought, sold, offered, etc.) usually follows the verb. The person who buys, sells, offers, and so on, is not mentioned. This is normally expressed in English with the passive voice (is/are + past participle).
+En español usamos las construcciones se + verbo para enfatizar algo. 
 
+El sustantivo normalmente sigue el verbo. 
 
-Se habla español en este restaurante.	Spanish is spoken in this restaurant.
-• Use a singular verb with singular nouns and a plural verb with plural nouns.
+Ejemplo: **Se habla** español en este restaurante.	
 
+--
 
-Se necesita un horno para hacer galletas.	An oven is needed to make cookies.
-Se venden vegetales allí.	Vegetables are sold there.
-• Use a singular verb when the se + verb construction is followed by an adverb, an infinitive, or a clause. This is expressed in English with they, you, one, and people.
+Usamos verbos singulares con sustantivos singulares y verbos plurales con sustantivos plurales 
 
-Se trabaja mucho en ese manzanal.	They work a lot in that apple orchard.
-Se puede comprar una variedad de manzanas allí.	You/One can buy a variety of apples there.
-Se dice que venden sidra también.	People say they sell cider also.
+Ejemplos: 
+
+**Se necesita** un horno para hacer galletas.	
+
+**Se venden** vegetales allí.
 
 ---
 
-Completamos las oraciones con se y la forma correcta del verbo.
+# Se + verb en singular con adverbios, infinitivos
+
+**Se trabaja** mucho en ese manzanal.
+
+**Se puede** comprar una variedad de manzanas allí.	
+
+**Se dice** que venden sidra también.	
+
+---
+
+# Completamos las oraciones con se y la forma correcta del verbo.
 
 1. (**vender**) pasteles en la pastelería. 
 
@@ -70,7 +81,9 @@ Completamos las oraciones con se y la forma correcta del verbo.
 
 ---
 
- Selecciona el lugar donde ocurre cada actividad. Luego compara tus respuestas con las de tu compañero/a.
+# Selecciona el lugar donde ocurre cada actividad. Luego compara tus respuestas con las de tu compañero/a.
+
+.pull-left[
 
 1. _________ Se cambian cheques en…
 
@@ -82,6 +95,12 @@ Completamos las oraciones con se y la forma correcta del verbo.
 
 5. _________ Se ofrece trabajo en…
 
+
+]
+
+
+.pull-right[
+
 a. un almacén o una tienda.
 
 b. los anuncios en línea.
@@ -92,14 +111,79 @@ d. una playa.
 
 e. un restaurante.
 
----
-Actividad en parejas
+]
 
 ---
-Otra actividad en parejas
+class: inverse, center, middle
+
+# Mandatos informales
+
+---
+
+# Como formamos los mandatos informales 
+
+Usamos la tercera persona singular forma del verbo en el presente para decir un mandato informal
+
+|                | Afirmativo |	Negativo  	 |
+| -------------- | ---------- |	------------ |
+| firmar         | firma      | No firmes	   |
+| aprender  	   | aprende    |	No aprendas	 |
+| escribir    	 | escribe 	  | No escribas	 |
+
+**Aprende** esto para la clase.
+**Escribe** la tarea. 
+
+---
+# Mandatos informales... irregulares
+
+<div align="center">
+ <img width="400" src="./libs/img/vin.jpg">
+
+
+
+
+- Vin Disiel has ten weapons
+- Ven di sal haz ten ve pon
+- venir decir, salir, hacer, tener, ir, poner
+- Tu compañero/a tiene malas notas, sale de marcha demasiado y no ayuda a recoger 
+la casa. Poned orden dándole consejos (usad mandatos informales).
+
+---
+
+# Simón dice...
+
+---
+
+# Las partes del cuerpo:
+
+<div align="center">
+  <img width="650" src="./libs/img/cuerpo1.png">
+
+
+-- ejercicio partes del cuerpo 
+Si tengo X, qué me duele?
+
+---
+
+# Las reglas de la clase de Nicole
+
+Usando mandatos formales, informales o el se pasivo, cread una lista de reglas o normativas para nuestra clase. 
+
+---
+# Consejos para futuros estudiantes en Middlebury
+
+
+"Nos piden a los de Recursos que compilamos sugerencias y consejos de nuestros estudiantes para los del próximo verano de 1.5. Los consejos responden a la pregunta cómo pueden tener éxito en Midd. Ya que cabe perfectamente en lo que estamos estudiando esta semana, podrían compilar algunos consejos de sus estudiantes y pasármelos por email? Yo se los mandaré a Manel. Gracias!" - Anamaría
+
+
+
+---
+
+# Otra carrera de relevos 
+
 ---
 class: center, middle
-# Instrucciones Cómo dar instrucciones (2 minutos)
+# Instrucciones: Cómo dar instrucciones (2 minutos)
 
 ---
 class: center, middle, inverse 
