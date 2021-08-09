@@ -192,136 +192,88 @@ class: center, middle, inverse
 
 ---
 
-# Repasamos: Los mandatos formales 
-Funciones y formas: Mandatos,
+# Dale consejos a estos niños
 
- Marcos, la buena alimentación es fundamental para la buena salud. desayuna siempre para no tener hambre por las mañanas. Para tener energía, consume carbohidratos y proteínas en las tres comidas. Come carbohidratos complejos, como pasta y pan, pero siempre integrales (whole-grain). No olvides las frutas, las verduras y la leche; son muy buenas para la salud. Evita (Avoid) comer azúcares en grandes cantidades. Limita tu consumo de grasas también y no comas muchos dulces.
- 
-Piénsalo. Indica si las instrucciones del enfermero para tu amigo Marcos son afirmativas (A) o negativas (N). Luego, escribe el infinitivo del verbo conjugado.
+![baby](libs/img/baby.jpeg)
 
- 	¿AFIRMATIVA O NEGATIVA?	INFINITIVO
-1. desayuna siempre.	_________	_________
-2. Consume carbohidratos y proteínas.	_________	_________
-3.
+---
+class: middle 
 
-No olvides las frutas, las verduras y la leche.	_________	_________
-4. Evita comer azúcares en grandes cantidades.	_________	_________
-5. Limita el consumo de grasas.	_________	_________
-6. No comas muchos dulces.	_________	_________
+# Repasamos: Los mandatos  
 
-Informal commands
-• To ask a friend to do or not to do something, use an informal command. Use that form with anyone else you address as tú, such as someone your own age or someone with whom you have a close relationship.
-
-Pásame la sal.	Pass me the salt.
-mira esta foto.	Look at this photo.
-Lee las instrucciones.	Read the instructions.
-Préstame tu lápiz.	Lend me your pencil.
-• To form the affirmative tú command, use the present indicative tú form without the final -s.
-
- 	PRESENT INDICATIVE	AFFIRMATIVE TÚ COMMAND
-cocinar	cocinas	cocina
-beber	bebes	bebe
-consumir	consumes	consume
-• For the negative tú command, use the negative usted command form and add the final -s.
-
- 	NEGATIVE USTED COMMAND	NEGATIVE TÚ COMMAND
-preparar	no prepare	no prepares
-comer	no coma	no comas
-subir	no suba	no subas
+Marcos, la buena alimentación es fundamental para la buena salud. 
+Desayuna siempre para no tener hambre por las mañanas. 
+Para tener energía, consume carbohidratos y proteínas en las tres comidas. 
+Come carbohidratos complejos, como pasta y pan, pero siempre integrales. 
+No olvides las frutas, las verduras y la leche; son muy buenas para la salud. 
+Evita comer azúcares en grandes cantidades. 
+Limita tu consumo de grasas también y no comas muchos dulces.
 
 
-• Placement of object and reflexive pronouns with tú commands is the same as with usted commands.
+---
+class: center, middle 
 
-AFFIRMATIVE COMMAND	NEGATIVE COMMAND
-Prepárelo (usted).	No lo prepare (usted).
-Bébela (tú).	No la bebas (tú).
-Siéntese (usted) aquí.	No se siente (usted) aquí.
-Acuéstate (tú).	No te acuestes (tú).
-• The plural of tú commands in Latin American Spanish is the ustedes command.
+Marcos, la buena alimentación es fundamental para la buena salud. 
+**Desayuna** siempre para no tener hambre por las mañanas. 
+Para tener energía, **consume** carbohidratos y proteínas en las tres comidas. 
+**Come** carbohidratos complejos, como pasta y pan, pero siempre integrales. 
+**No olvides** las frutas, las verduras y la leche; son muy buenas para la salud. 
+**Evita** comer azúcares en grandes cantidades. 
+**Limita** tu consumo de grasas también y **no comas** muchos dulces.
 
-Cocina (tú).	Cocinen (ustedes).
-Bebe (tú).	Beban (ustedes).
-Sube (tú).	Suban (ustedes).
-• Some -er and -ir verbs have shortened affirmative tú commands, but their negative command forms follow the pattern that you have already learned for formal commands.
+---
+class: center, middle
 
- 	AFFIRMATIVE (tú)	NEGATIVE (tú)
-poner	pon	no pongas
-salir	sal	no salgas
-tener	ten	no tengas
-venir	ven	no vengas
-hacer	haz	no hagas
-decir	di	no digas
-ir	ve	no vayas
-ser	sé	no seas
-Sal a las tres si quieres llegar a las cuatro.	Leave at 3:00 if you want to arrive at 4:00.
-No salgas sin paraguas; va a llover.	Don't leave without an umbrella; it is going to rain.
-Sé generoso con tus amigos.	Be generous with your friends.
-No seas impaciente.	Don't be impatient.
-dime la verdad.	Tell me the truth.
-No nos digas mentiras.	Don't tell us any lies.
- ¿Comprendes? Completa la conversación con la forma correcta del verbo entre paréntesis.
+# [Kahoot](https://create.kahoot.it/details/a9268775-f6fb-4fc2-be5e-1a80bd1cc1d4)
 
-MARIO: ¿Cómo preparo un buen asado?
+---
 
-XIMENA: (1) _________ (Comprar) carne blanda (tender).
+# Los irregulares (y nuestro amigo Vin)
+
+| verbo | afirmativo  | negativo  |
+| ----- | ----------- | --------- |
+| poner |	pon	        | no pongas | 
+| salir	| sal         |	no salgas |
+| tener	| ten         |	no tengas |
+| venir	| ven	        | no vengas |
+| hacer	| haz	        | no hagas  |
+| decir	| di	        | no digas  | 
+| ir	  | ve	        | no vayas  |
+| ser   |	sé          |	no seas   |
+
+**Sal** a las tres si quieres llegar a las cuatro.	
+
+**No salgas** sin paraguas; va a llover.	
+
+**Sé** generoso con tus amigos.	
+
+**No seas** impaciente.	
+
+**Dime** la verdad.	
+
+**No nos digas** mentiras.
+
+---
+class: center, middle
+
+**MARIO**: ¿Cómo preparo un buen asado?
+
+**XIMENA**: (1) _________ (Comprar) carne blanda (tender).
 
 No (2) _________ (comprar) carne barata.
 
-MARIO: ¿Y luego?
+**MARIO**: ¿Y luego?
 
-XIMENA: (3) _________ (Ponerle) sal y pimienta a la carne.
+**XIMENA**: (3) _________ (Ponerle) sal y pimienta a la carne.
 
 No (4) _________ (poner) demasiada sal.
 
 
-10-33 Una cura de reposo. Tu amigo/a estuvo muy enfermo/a. Su médico le recomendó pasar dos semanas de descanso en las termas de Papallacta, en Ecuador. Como tú has visitado este lugar, dile a tu amigo/a qué puede hacer allí. Después, cambien de papel.
+---
 
-MODELO
+# Nuestra Receta Favorita
 
-disfrutar de la tranquilidad
-
-E1: Disfruta de la tranquilidad y no uses tu celular.
-
-E2: Y, ¿qué más puedo hacer?
-
-1. disfrutar del sol
-
-2. respirar aire puro y descansar
-
-3. no hacer la tarea
-
-4. tomar fotos y hacer videos
-
-5. probar un plato típico ecuatoriano en el restaurante Pumamaki
-
-6. salir por las noches y conversar con las personas del lugar
-
-7. tomar baños termales todos los días
-
-8. asistir a un concierto de música andina
-
-9. salir a caminar todos los días
-
-10. llevar ropa apropiada para las noches frías de los Andes
-
- 10-34 Tareas pendientes. PREPARACIÓN. Ustedes están a cargo de un restaurante donde se va a celebrar una cena formal. Túrnense para recordarse (remind each another) las tareas pendientes.
-
-MODELO
-
-lavar la vajilla (set of dishes) fina / limpiar el piso
-
-E1: Lava la vajilla fina.
-
-E2: Por supuesto. / Inmediatamente. Y tú, limpia el piso, ¿vale?
-
-E1: Vale. / De acuerdo.
-
-Tareas pendientes: Empleado/a 1	Tareas pendientes: Empleado/a 2
-1. comprar temprano los pescados y mariscos frescos	1. ser puntual
-2. no hacer pan blanco; hacer pan integral (whole-wheat)	2. sacar las verduras del congelador (freezer)
-3. tener las mesas puestas a las 4:00	3. asar el pescado media hora antes de la cena
-4. no poner los manteles plásticos; poner los de lino	4. preparar las ensaladas y los platos principales
-5. no poner música rock; poner música suave	5. imprimir (to print) el programa con los nombres de los invitados
+Piensa en vuestra receta favorita. Escribidla con mandatos informales.
 
 ---
 # ¡Ayuda!
@@ -334,24 +286,31 @@ Derramaste agua en la mesa :(
 
 La próxima vez, **ten** cuidado cuando sirves agua.
 
-Problemas con la cena formal.
-1. Las ensaladas estaban saladas.	 
-2. El pescado se quemó.	 
-3. Había manchas en las copas.	 
-4. Nadie imprimió el programa.	 
-5. Dos camareros llegaron tarde.	 
-6. Una camarera se cayó con los platos porque el piso estaba mojado.	
+
+
+1. Llegaste tarde a la cita. 
+
+2. Te olvidaste el nombre de la otra persona. 	 
+
+3. Pediste un postre con helado para compartir y la otra persona tiene intolerancia a lactosa.
+
+4. Te olvidaste la tarjeta de crédito en casa.	
+
+5. La otra persona llegó y te diste de cuenta que es un barge (pez-gato)
+
 
 ---
 
-Relay race 
+# Otra carrera de relevos 
 
 ---
 class: center, middle
 
 # Preparación: Cómo dar instrucciones (2 minutos)
 
-# orden de la presentaciones 
+# orden de las presentaciones 
+
+# Es para el viernes :) 
 
 ---
 class: center, middle, inverse
@@ -361,7 +320,9 @@ class: center, middle, inverse
 ---
 class: center, middle, inverse 
 
-# Presentaciones: cómo dar instrucciones 
+# Precalentamiento 
+
+![ben](libs/img/ben.jpg)
 
 ---
 class: center, middle, inverse 
@@ -537,11 +498,1116 @@ Ellos **harán** el pastel para la clase.
 
 ---
 class: center, middle
+
 # Nuestros horóscopos
 
 ---
 class: center, middle
+
 # Citas rápidas
 
 ---
-Kahoot
+class: center, middle
+
+# [Kahoot](https://play.kahoot.it/v2?quizId=8c163feb-6cb3-4406-801e-a08eb26deb38&token=eyJraWQiOiJTZmRDOUNBOHlyT2dhOEVMUWxEODFyWWV2d1NicEE5cWxTb0siLCJ0eXAiOiJhY2Nlc3Mrand0IiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJodHRwczpcL1wva2Fob290Lml0XC9yZXN0Iiwic3ViIjoiOTY1MzNhYzctMDg0MC00OTNmLWE5ZjQtZDM5YzRhZjQ1YzY2IiwiaXNzIjoiaHR0cHM6XC9cL2thaG9vdC5pdFwvcmVzdCIsImV4cCI6MTYyODcwNDg5MCwiaWF0IjoxNjI4MTQzMjkyLCJqdGkiOiI3OWFmOTAxOS1kOGY2LTM3ZjUtYjg1MC0wMjNkZWUzNDQ3YTgiLCJzaWQiOiI5NzdmNWNiNi1lOGRkLTQzZDUtYmY0ZS1iNzBjYzlkZjdlMjQifQ.2WZwQVBmxUgv460SNr9tyNHNPuMZb64ynEuhP3mdDlpnExc8rLu05jG1WmmS3XdyzQFtbLl2r98GeOgLmS_GyBG83dXt8tWa2DhF9b0dkBOL18Gxw9Y_Y_U95gkBf9FFRi1DJ-7EdY_DFucMWpWckEJrqDO_2kTCFgrds1_UUKtunBqkQDAmwagECTNMk7seXRLMdjAUx6r4fUHGp3Zw0_JF4V5ONm0092K_A9s58ni3Hqn7BSG3Sxmv1H6dvPn5LSYWxFkTMnkVUFjcivwiquUuXpdF6kOWneg1BqUx6f3U_REA8_BQptWJz01T2nabMRMKx3npViCMeAMNUjU4ag)
+
+---
+class: center, middle, inverse 
+
+# Una introducción al subjuntivo
+
+---
+
+# ¿Cómo damos consejos?
+
+<div align="center">
+  <img width="900" src="./libs/img/recomendaciones1.png">  
+</div>
+
+---
+
+# ¿Cómo damos consejos?
+
+<div style="float: right">
+  <img width="400" src="./libs/img/consejos1.jpg">  
+</div>
+
+
+### Con un mandato formal:
+
+- **Use** esta crema cada seis horas.
+
+--
+
+### Con un consejo indirecto:
+
+- Es importante que Ud. **use** un protector solar.
+
+---
+
+# El subjuntivo
+
+- Con un consejo indirecto, se usa la forma de un mandato para formar **el subjuntivo**.
+
+<!-- <div align="center">
+  <img width="650" src="./assets/img/subjuntivo1.png">  
+</div> -->
+
+|          Mandato          |    |           Presente del subjuntivo           |
+| :------------------------ | :- | :------------------------------------------ |
+| **Guarde** cama           |    | Es necesario que Ud. **guarde** cama        |
+| **Beban** muchos líquidos |    | Es mejor que Uds. **beban** muchos líquidos |
+| | &nbsp; &nbsp; &nbsp; &nbsp; | |
+
+</br>
+
+### Con la forma tú:
+
+- Es necesario que (tú) **guardes** cama.
+
+
+---
+
+# El subjuntivo
+
+- El uso del subjuntivo requiere una frase con dos cláusulas.
+
+<div align="center">
+  <img width="850" src="./libs/img/subjuntivo3.png">  
+</div>
+
+---
+
+# El subjuntivo
+
+### Algunas cláusulas que requieren el subjuntivo:
+
+- Le/te recomiendo que...
+- Quiero que...
+- Es necesario que...
+- Es aconsejable que...
+- Es preferible que...
+- Es mejor que...
+- Es recomendable que...
+- Es importante que...
+
+<!-- <div align="center">
+  <img width="550" src="./assets/img/subjuntivo4.png">  
+</div> -->
+
+---
+
+# Querida Abby
+
+Tengo un problema con mi vida personal. Tengo mucho trabajo este semestre. Tengo cuatro clases los lunes, miércoles y viernes y dos clases en martes y jueves. Tengo mucha tarea y nunca hay tiempo para completarla. Quiero recibir buenas notas en mis clases pero también quiero mantener mi vida social. Estoy muy triste y cansada. ¡Ayudame!  
+
+--Trabajadora
+
+--
+
+- ¿Qué consejos tienes para "Trabajadora"?
+
+---
+
+# Querida Abby
+
+- Con un compañero, escribidle a Abby un párrafo corto explicando un problema que has tenido en Middlebury. Pedidle consejos para que os ayude. 
+- Utilizad el pretérito/imperfecto para contar el problema
+- Intercambiad consejos con otro grupo y haced el papel de Abby
+
+<!-- ejercicios subj del libro -->
+
+
+
+---
+
+background-image: url(./libs/img/subjlogico.jpg)
+background-position: 95% 30%
+background-size: 400px
+
+# Repasito
+
+### ¿Cómo formamos el subjuntivo en el presente?
+
+--
+
+- **forma "yo"** > **quitar la "o"** > **añadir la vocal opuesta**
+
+--
+
+### ¿Qué tiene en común con los mandatos formales?
+
+--
+
+- **Se forma de la misma manera**
+
+--
+
+### ¿En qué se diferencia de los mandatos formales?
+
+--
+
+- **Los pronombres se colocan antes del verbo conjugado**
+
+---
+
+# Las expresiones de influencia
+
+<div align="center">
+  <img width="900" src="./libs/img/subjuntivo3.png">
+</div>
+
+---
+
+# Los verbos de comunicación
+
+.Large[
+
+- aconsejar
+- recomendar
+- pedir
+- sugerir
+- prohibir
+
+]
+
+--
+
+### Denles consejos a los futuros estudiantes de nivel 1.5 usando los verbos de comunicación
+
+---
+
+# Las vicisitudes del estudiante
+
+<div align="center">
+  <img width="500" src="./libs/img/vicisitudes1.png">
+</div>
+
+--
+
+- ¿Qué vicisitudes tienes como estudiante en Middlebury?
+- ¿Son diferentes fuera de Middlebury? ¿Cómo?
+
+---
+
+# Algunas quejas comunes
+
+<div align="center">
+  <img width="900" src="./libs/img/quejas1.png">
+</div>
+
+</br>
+
+--
+
+- ¿Qué quejas tienes? Cuéntaselas a tu compañero
+- ¿Qué consejos tienes para que se queje menos?
+
+---
+
+# Para dar consejos
+
+<div align="center">
+  <img width="650" src="./libs/img/consejos1.png">  
+
+  <img width="650" src="./libs/img/consejos2.png">
+</div>
+
+---
+
+# El subjuntivo: 
+
+- Cómo influir sobre los demás
+
+<div align="center">
+  <img width="900" src="./libs/img/subjuntivo1.png">
+</div>
+
+---
+
+# Para formar el subjuntivo:
+
+</br>
+
+<!-- <div align="center">
+  <img width="900" src="./libs/img/subjuntivo2.png">
+</div> -->
+
+| El presente del subjuntivo |      -ar      |    -er    |    -ir     |
+| -------------------------- | ------------- | --------- | ---------- |
+|                            | **descansar** | **hacer** | **salir**  |
+|                            | (yo descans-) | (yo hag-) | (yo salg-) |
+| que yo                     | descanse      | haga      | salga      |
+| que tú                     | descanses     | hagas     | salgas     |
+| que el/ella/Ud.            | descanse      | haga      | salga      |
+| que nosotros               | descansemos   | hagamos   | salgamos   |
+| que vosotros               | descanséis    | hagáis    | salgáis    |
+| que ellos/ellas/Uds.       | descansen     | hagan     | salgan     |
+
+
+---
+
+# Los cambios ortográficos en el presente del subjuntivo
+
+<div align="center">
+  <img width="900" src="./libs/img/subjuntivo4.png">
+</div>
+
+---
+
+# Los verbos irregulares en el presente del subjuntivo
+
+<!-- <div align="center">
+  <img width="900" src="./libs/img/subjuntivo5.png">
+</div>
+ -->
+
+</br>
+
+|                      |   ir    |  ser   | estar   | saber   |  dar  |
+| -------------------- | ------- | ------ | ------- | ------- | ----- |
+| que yo               | vaya    | sea    | esté    | sepa    | dé    |
+| que tú               | vayas   | seas   | estés   | sepas   | des   |
+| que él/ella/Ud.      | vaya    | sea    | esté    | sepa    | dé    |
+| que nosotros(as)     | vayamos | seamos | estemos | sepamos | demos |
+| que vosotros(as)     | vayáis  | seáis  | estéis  | sepáis  | deis  |
+| que ellos/ellas/Uds. | vayan   | sean   | estén   | sepan   | den   |
+
+
+---
+
+# ¡No te confundas con los mandatos!
+
+|                   | Mandato informal    | Mandato formal |  subjuntivo |
+| ----------------- | ------------------- | -------------- | ----------- |
+| yo                | --                  |  --            | hable       |
+| tú                | habla (no hables)   |  --            | hables      |
+| él/ella/usted     | --                  |  hable         | hable       |
+| nosotros          | --                  |  --            | hablemos    |
+| vosotros          | hablad (no habléis) |  --            | habléis     |
+| ellos/ellas/usted | --                  |  hablen        | hablen      |
+
+--
+
+- ¡**OJO**! Los mandatos informales negativos tienen la misma forma que el subjuntivo 
+
+---
+
+# ¡No te confundas con los mandatos!
+
+|                   | Mandato informal    | Mandato formal | subjuntivo |
+| ----------------- | ------------------- | -------------- | ---------- |
+| yo                | --                  | --             | coma       |
+| tú                | come (no comas)     | --             | comas      |
+| él/ella/usted     | --                  | coma           | coma       |
+| nosotros          | --                  | --             | comamos    |
+| vosotros          | comed (no comáis)   | --             | comáis     |
+| ellos/ellas/usted | --                  | coman          | coman      |
+
+
+--
+
+- ¡**OJO**! Los mandatos informales negativos tienen la misma forma que el subjuntivo 
+
+---
+
+# ¡No te confundas con los mandatos!
+
+|                   | Mandato informal    | Mandato formal | subjuntivo |
+| ----------------- | ------------------- | -------------- | ---------- |
+| yo                | --                  | --             | abra       |
+| tú                | abre (no abras)     | --             | abras      |
+| él/ella/usted     | --                  | abra           | abra       |
+| nosotros          | --                  | --             | abramos    |
+| vosotros          | abrid (no abráis)   | --             | abráis     |
+| ellos/ellas/usted | --                  | abran          | abran      |
+
+
+--
+
+- ¡**OJO**! Los mandatos informales negativos tienen la misma forma que el subjuntivo 
+
+---
+exclude: true
+
+# Ejercicios
+
+- 11-9, p. 388
+
+- 11-13, p. 393 
+
+- 2, p. 395
+
+- 11-17, p. 396
+
+- 11-19, p. 399
+
+---
+
+# El condicional
+
+- La forma **condicional** se utiliza para hablar de acciones hipotéticas o posibles
+- Leed el siguiente párrafo e identificad los verbos en la forma condicional
+
+<div align="center">
+  <img width="950" src="./libs/img/condicional1.png">
+</div>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+class: inverse, middle, center
+
+# El condicional
+
+---
+
+# El condicional
+
+### La forma condicional describe lo que las personas ***harían*** o ***podrían*** hacer bajo ciertas circunstancias
+
+.Large[
+- Si tuviera mucho dinero, **compraría** un coche nuevo.
+]
+
+--
+
+.Large[
+- También, **iría** a las bahamas de vacaciones.
+]
+
+---
+
+# El condicional
+
+### La forma condicional se usa para indicar cortesía, sobre todo con los verbos **gustar**, **poder** y **deber**.
+
+.Large[
+
+- **Me gustaría** informarme sobre programas de estudios en Argentina.
+
+- ¿**Podría** usted ayudarme?
+
+- **Deberías** buscar la información por internet.
+
+]
+
+---
+
+# El condicional
+
+### La forma condicional se usa para indicar **probabilidad** o **duda** en el pasado
+
+.Large[
+
+- ¿Por qué no fue Paco a clase hoy?  
+No sé. **Estaría** enfermo. 
+
+]
+
+---
+
+# El condicional
+
+|      forma       |  terminación |     llegar      |    volver       |     vivir      |
+| ---------------- | ----------   | --------------  | --------------- | -------------- |
+| yo               | **ía**       | llegar**ía**    | volver**ía**    | vivir**ía**    |
+| tú               | **ías**      | llegar**ías**   | volver**ías**   | vivir**ías**   |
+| usted/él/ella    | **ía**       | llegar**ía**    | volver**ía**    | vivir**ía**    |
+| nosotros         | **íamos**    | llegar**íamos** | volver**íamos** | vivir**íamos** |
+| vosotros         | **íais**     | legar**íais**   | volver**íais**  | vivir**íais**  |
+| uds./ellos/ellas | **ían**      | llegar**ían**   | volver**ían**   | vivir**ían**   |
+
+---
+
+# Formas irregulares
+
+| Verbo  | raíz irregular |       Ejemplos      |
+| ------ | -------------- | ------------------- |
+| decir  | dir-           | Yo diría            |
+| hacer  | har-           | Tú harías           |
+| tener  | tendr-         | Nosotros tendríamos |
+| poner  | pondr-         | Vosotros pondríais  |
+| venir  | vendr-         | Usteden vendrían    |
+| salir  | saldr-         | Yo saldría          |
+| saber  | sabr-          | Tú sabrías          |
+| querer | querr-         | Ella querría        |
+| poder  | podr-          | Él podría           |
+
+
+--
+
+### ¿Qué harías si te tocara la lotería?
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Cuenta, cuenta, cuenta
+
+### Cuéntale a tu vecino algo que hiciste durante el fin de semana pasado
+
+### Incluye lo siguiente:
+
+- 1 oración que contenga acciones que ocurren al mismo tiempo
+- 1 o más acciones que ocurran en secuencia
+- 1 ejemplo de una acción que interrumpe otra
+- 1 oración en la que enfatices que una acción ocurre antes que la otra
+
+---
+
+# El subjuntivo: Las expresiones de emoción
+
+<div align="center">
+  <img width="700" src="./libs/img/subjuntivo1a.png">  
+</div>
+
+---
+
+# Las expresiones de emoción
+
+### **esperar**
+
+- Esperamos que tu hermana **encuentre** empleo pronto.
+
+--
+
+### **sentir**
+
+- Sentimos mucho que Uds. no **puedan** ir a la boda.
+
+--
+
+### **estar + adjetivo de emoción + de**
+
+- Ramona está muy orgullosa de que su hijo **se gradúe**.
+
+---
+
+# Más expresiones de emoción
+
+### **tener miedo de**
+
+- Tengo miedo de que mi novia ya no me **quiera**.
+
+--
+
+### **ojalá**
+
+- Ojalá (que) **sean** muy felices.
+
+--
+
+### **Es + adjetivo o sustantivo de emoción**
+
+- Es ridículo que Sara no **piense** asistir a la boda.
+
+---
+
+# Los verbos como gustar en las expresiones de emoción
+
+### **gustar**
+
+- No nos gusta que no **se casen** por la iglesia.
+
+--
+
+### **alegrar**
+
+- A mi padre le alegra que yo **siga** con mis estudios.
+
+--
+
+### **preocupar**
+
+- Me preocupa que mis padres **se separen**.
+
+---
+
+# Los verbos como gustar en las expresiones de emoción
+
+### **sorprender**
+
+- ¿Te sorprende que **se comprometan**?
+
+--
+
+### **molestar**
+
+- Les molesta que no **haya** una fiesta para celebrar la graduación.
+
+--
+
+### **enfadar**
+
+- Me enfada que no **inviten** a mi novio a la fiesta.
+
+---
+
+# Los verbos con cambios en la raíz en el presente del subjuntivo
+
+<!-- <div align="center">
+  <img width="800" src="./libs/img/subjuntivo6.png">  
+</div> -->
+
+|         -ar          |    e > ie   |      o > ue     |
+| -------------------- | ----------- | --------------- |
+|                      | **pensar**  | **acostarse**   |
+| que yo               | p**ie**nse  | me ac**ue**ste  |
+| que tú               | p**ie**nses | te ac**ue**stes |
+| que Ud./él/ella      | p**ie**nse  | se ac**ue**ste  |
+| que nosotros(as)     | pensemos    | nos acostemos   |
+| que vosotros(as)     | penséis     | os acostéis     |
+| que Uds./ellos/ellas | p**ie**nsen | se ac**ue**sten |
+
+</br>
+
+- **e** > **ie**: despertarse, empezar, pensar, merendar, recomendar
+- **o** > **ue**: acostarse, almorzar, contar, encontrar, jugar (u > ue), probar
+
+---
+
+# Los verbos con cambios en la raíz en el presente del subjuntivo
+
+<!-- <div align="center">
+  <img width="700" src="./libs/img/subjuntivo8.png">  
+  <img width="300" src="./libs/img/subjuntivo9.png">
+</div> -->
+
+|         -er          |     e > ie    |    o > ue   |
+| -------------------- | ------------- | ----------- |
+|                      | **entender**  | **volver**  |
+| que yo               | ent**ie**nda  | v**ue**lva  |
+| que tú               | ent**ie**ndas | v**ue**lvas |
+| que Ud./él/ella      | ent**ie**nda  | v**ue**lva  |
+| que nosotros(as)     | entendamos    | volvamos    |
+| que vosotros(as)     | entendáis     | volváis     |
+| que Uds./ellos/ellas | ent**ie**ndan | v**ue**lvan |
+
+</br>
+
+- **e** > **ie**: atender, entender, perder, querer
+- **o** > **ue**: poder, volver
+
+---
+
+# Los verbos con cambios en la raíz en el presente del subjuntivo
+
+<!-- <div align="center">
+  <img width="800" src="./libs/img/subjuntivo10.png">  
+</div>
+ -->
+
+|         -ir          |   e > ie/i   |   o > ue/u   |   e > i/i    |
+| -------------------- | ------------ | ------------ | ------------ |
+|                      | **sentir**   | **dormir**   | **servir**   |
+| que yo               | s**ie**nta   | d**ue**rma   | s**i**rva    |
+| que tú               | s**ie**ntas  | d**ue**rmas  | s**i**rvas   |
+| que Ud./él/ella      | s**ie**nta   | d**ue**rma   | s**i**rva    |
+| que nosotros(as)     | s**i**ntamos | d**u**rmamos | s**i**rvamos |
+| que vosotros(as)     | s**i**ntáis  | d**u**rmáis  | s**i**rváis  |
+| que Uds./ellos/ellas | s**ie**ntan  | d**ue**rman  | s**i**rvan   |
+
+\* ¡OJO! Los verbos -ir tienen cambios en la forma **nosotros** y **vosotros**.
+
+- **e** > **ie**/**i**: divertirse, preferir, sentir, sentirse
+- **o** > **ue**/**u**: dormir, morir
+- **o** > **i**/**i**: pedir, repetir, seguir, servir, vestirse
+
+---
+
+# Para expresar grados de certeza o duda, el optimismo, el pesimismo
+
+<div align="center">
+  <img width="550" src="./libs/img/certezadudaopt1.png">  
+  <img width="350" src="./libs/img/certezadudaopt2.png">
+  <img width="350" src="./libs/img/certezadudaopt3.png">
+</div>
+
+---
+
+# Cuando damos opiniones, expresamos la certeza y la duda.
+
+<div align="center">
+  <img width="850" src="./libs/img/certezadudaopt4.png">  
+</div>
+
+---
+
+# Las expresiones de certeza
+
+<div align="center">
+  <img width="800" src="./libs/img/certeza1.png">  
+</div>
+
+- Se usa el indicativo con estas expresiones.
+    - Creo que me van a ofrecer el puesto. (el presente)
+    - Creo que le dieron el puesto. (el pasado)
+
+---
+
+# El subjuntivo con la duda y la negación
+
+### La duda:
+
+- Dudo que ella **esté** embarazada.
+
+### La negación:
+
+- No es verdad que ella **esté** embarazada.
+
+---
+
+# Las expresiones de duda
+
+<div align="center">
+  <img width="800" src="./libs/img/duda1.png">  
+</div>
+
+### Se usa el subjuntivo con estas expresiones.
+
+- No creo que me **vayan** a ofrecer el puesto.
+
+---
+
+# Las expresiones de negación
+
+<div align="center">
+  <img width="750" src="./libs/img/negacion1.png">  
+</div>
+
+</br>
+
+### Se usa el subjuntivo con estas expresiones.
+
+- No es posible que ella **esté** embarazada.
+
+---
+
+# El subjuntivo vs. el indicativo
+
+.pull-left[
+
+### <blue>El indicativo</blue>
+
+- la certeza
+- la afirmación  
+
+]
+
+.pull-right[
+
+### **El subjuntivo**
+
+- la duda
+- la negación
+
+
+<div align="center">
+  <img width="750" src="./libs/img/subvsind1.png">  
+</div>
+
+]
+
+---
+
+# Examen oral 2
+
+---
+
+# Las cláusulas
+
+- El subjuntivo suele aparecer en una cláusula subordinada
+    - Recomiendo **que te vayas**
+    - Es necesario **que me cuentes la verdad**
+    - Dudan **que podamos lograrlo**
+
+- Suele haber un cambio de sujeto entre la cláusula principal y la subordinada
+    - **El profesor** *quiere* que <blue>ellos</blue> *sepan* la respuesta.
+    - **El profesor** *quiere* *saber* la respuesta.
+
+---
+
+# Repaso
+
+<div align="center">
+  <img width="800" src="./libs/img/subjrepaso.png">
+</div>
+
+---
+
+# Las cláusulas adjetivales
+
+<div align="center">
+  <img width="900" src="./libs/img/adjetivales.png">
+</div>
+
+---
+
+# Las cláusulas adjetivales
+
+### La cláusula subordinada describe al antecedente de la cláusula principal.
+### Funciona como un adjetivo. 
+
+- Ronaldo es un hombre **que vive intensamente**
+- Paco es un profesor **que toca el piano**
+- Tengo un perro **que ladra mucho**
+- ¿Conoces al profesor **que enseña el subjuntivo**?
+
+---
+
+# Las cláusulas adjetivales
+
+- Se usa el indicativo si la subordinada se refiere a algo/alguien específico o conocido por el hablante
+
+- Tenemos una secretaria **que habla francés y alemán**
+- Aquí hay dos anuncios para puestos **que ofrecen buenos beneficios**
+- Tenéis una profesora **que nunca sonríe**
+- Escribid 3 oraciones que contengan cláusulas adjetivales
+
+---
+
+# Las cláusulas adjetivales
+
+- Se usa el subjuntivo si la cláusula adjetival describe algo no existente o si se duda de su existencia
+
+- Claudia debe casarse con un hombre **que tenga menos obligaciones**
+- Necesitamos una secretaria **que hable japonés**
+- Quiero encontrar un puesto **que ofrezca oportunidades para viajar**
+- No hay nadie **que trabaje tanto como Elisondo**
+- Escribid 3 oraciones que contengan cláusulas adjetivales en el subjuntivo
+
+---
+class: inverse, center, middle
+
+# Overview
+
+---
+
+# Lo que hemos visto
+
+- Sustantivos y artículos 
+
+- Pronombres personales 
+
+- Estar, ser, tener, ir 
+
+- Posesión
+
+- Verbos regulares 
+
+- Verbos como “gustar”
+
+- Cómo hacer preguntas
+
+- El presente progresivo 
+
+- Verbos de cambio radical
+
+---
+
+# Lo que hemos visto
+
+- Verbos irregulares 
+
+- El futuro 
+
+- Adjetivos comparativos 
+
+- Ser y estar 
+
+- Verbos reflexivos
+
+- El participio pasado 
+
+---
+
+# Lo que hemos visto
+
+- Complemento directo 
+
+- Complemento indirecto 
+
+- Dos complementos juntos
+
+- El presente perfecto 
+
+- Los verbos “encantar” y “interesar”
+
+- El futuro 
+
+- El pretérito 
+
+---
+
+# Lo que hemos visto
+
+- Pretérito irregular 
+
+- El condicional 
+
+- Los adjetivos
+
+- Más verbos como gustar 
+
+- Las palabras indefinidas 
+
+- Las palabras negativas 
+- Por y para 
+
+---
+
+# Lo que hemos visto
+
+- El imperfecto 
+
+- Pretérito vs. Imperfecto 
+
+- El pluscuamperfecto 
+
+- El “se” pasivo
+
+- El “se” impersonal
+
+- Los mandatos formales
+
+- El subjuntivo 
+
+- El indicativo vs. el subjuntivo 
+
+- El subjuntivo en cláusulas adjetivales 
+
+---
+background-image: url("./libs/img/resumen1.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen2.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen3.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen4.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen5.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen6.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen7.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen8.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen9.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen10.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen11.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen12.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen13.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen14.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen15.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen16.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen17.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen18.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen19.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen20.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen21.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/resumen22.png")
+background-size: contain
+background-color: black
+
+---
+
+<div align="center">
+<iframe src="https://play.kahoot.it/#/k/4e6c1957-f67a-4ad6-a560-5de23d73a7df" width="1000" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+</div>
+
+---
+
+
+class: inverse, middle, center
+
+# El pluscuamperfecto
+
+---
+
+# El pluscuamperfecto
+
+### Se utiliza para hablar de una acción terminada que ocurre **antes** de otra acción en el pasado.
+
+--
+
+- Cuando Jaime llegó, Susana ya **había abierto** sus regalos. 
+
+---
+background-image: url("./libs/img/pluscuamperfecto1a.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/pluscuamperfecto1b.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/pluscuamperfecto1c.png")
+background-size: contain
+
+---
+
+# El pluscuamperfecto
+
+### Se utiliza para hablar de una acción terminada que ocurre **antes** de otra acción en el pasado.
+
+- Cuando Jaime llegó, Susana ya **había abierto** sus regalos. 
+
+- Marisol ya **había salido** cuando llamaste.
+
+---
+background-image: url("./libs/img/pluscuamperfecto2a.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/pluscuamperfecto2b.png")
+background-size: contain
+
+---
+background-image: url("./libs/img/pluscuamperfecto2c.png")
+background-size: contain
+
+---
+
+# El pluscuamperfecto
+
+<div style="float: right">
+  <img width="100" src="../../site_libs/assets/img/hfill.png">
+  <img width="450" src="./libs/img/pluscuamperfecto3.png">
+</div>
+
+- Se forma exactamente como el presente perfecto
+
+- La excepción es que el verbo **haber** se conjuga en el imperfecto
+
+--
+
+### haber (presente) + participio pasado = presente perfecto
+
+- Ya he hecho la tarea.
+
+--
+
+### haber (imperfecto) + participio pasado = pluscuamperfecto
+
+- Ya había hecho la tarea cuando llegaste.
+
+---
+
+# El pluscuamperfecto
+
+### **¡OJO!**
+
+- Sigue habiendo formas irregulares del participio pasado.
+
+<div align="center">
+  <img width="450" src="./libs/img/pluscuamperfecto4.png">
+</div>
+
+---
+
+# Ejercicios
+
+- 3, p. 496
+- 14-18, p. 497
+- 14-19, p. 498
+
+---
+
+# Yo nunca había...
+
+- En grupos de 3-5, jugad una ronda completa de "Yo nunca he..."
+- Para poder usar el pluscuamperfecto, utiliza el siguiente contexto:  
+
+</br>
+
+### Antes de venir a Middlebury, yo nunca había...
+
+
+
