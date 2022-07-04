@@ -1,0 +1,421 @@
+---
+title: "Español 2"
+subtitle: ""
+author: "Nicole Rodríguez"
+institute: "Middlebury College"
+date: "2022/07/03 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [default, middlebury, middlebury-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+# Nuestro Plan
+
+- ¿Quién soy yo?
+
+- ¿Quiénes somos nosotros?
+
+- Mis 3 metas de verano
+
+- Canvas/Temario/Descripción de curso
+
+- un poco de aprendizaje (gramática :/)
+---
+# Yo soy Nicole Rodríguez (ella)
+
+![hiking](libs/img/hiking.png)
+
+---
+# Soy de NJ
+
+![nj](libs/img/nj.png)
+
+
+---
+
+# Mis padres son de Galicia, España
+
+
+.left[![galicia](libs/img/galicia1.png)]
+
+.center[![another](libs/img/galicia2.png)]
+
+.right[![anotherr](libs/img/galicia3.png)]
+
+---
+class: middle, center
+
+.pull-left[
+![vosotros](libs/img/vosotros1.png)
+]
+
+.pull-right[
+![anothermeme](libs/img/vosotros2.png)
+]
+
+---
+# Hice la carrera, la maestría, y el doctorado en Rutgers
+
+![rutgers](libs/img/rutgers.png)
+
+
+---
+
+# Estudio la fonología. 
+
+![vowel](libs/img/vowel.png)
+
+
+---
+
+# Soy aficionada de Celta de Vigo y de los Mets
+
+.pull-left[
+![celta](libs/img/celta.png)
+![spain](libs/img/espana.png)
+]
+
+.pull-right[
+![nym](libs/img/nym.png)
+]
+
+---
+
+# Soy tía
+
+.pull-left[
+![chloe](libs/img/chloe.png)
+]
+
+.pull-right[
+![chloeR](libs/img/chloe2.png)
+]
+---
+# ¡A presentarnos!
+
+- Nombre - Mote/Apodo 
+	
+- ¿De dónde vienes?
+	
+- Estudias/trabajas
+  - ¿en qué?
+	
+- Algo interesante de ti
+
+---
+# Mis tres metas de verano
+
+### ¿Qué queremos aprender?
+
+![que](libs/img/cerebro.jpg)
+
+https://padlet.com/nmrodriguez1994/1n1f7nwdzkoknzv9
+
+---
+# El sitio web de Canvas/Temario/Descripción del curso
+
+![canvas](libs/img/canvas.png)
+
+¡Y el libro!
+
+---
+# A conocernos un poco más
+
+- ¿Qué te gusta hacer en tu tiempo libre?
+  
+  - Me gusta **tejer y correr**.
+
+- ¿Qué película te hace llorar?
+
+  - **Avengers: End Game** me hace llorar.
+
+- Describe tu lugar favorito. 
+  
+  - Mi lugar favorite es **la casa de mis abuelos**. **Son mis mejores amigos y me gusta** 
+  **estar con ellos.**  
+  
+
+**Tienes que contarnos una cosa de tu compañer@**
+
+---
+class: inverse, middle, center
+# Descanso
+
+---
+class: inverse, center, middle
+
+# Gustar
+
+---
+background-image: url(libs/img/tiempolibre1.png)
+background-size: 900px
+background-position: 50% 70%
+
+# ¿Qué le gusta hacer en su tiempo libre?
+
+---
+background-image: url(libs/img/tiempolibre2.png)
+background-size: 850px
+background-position: 50% 70%
+
+# ¿Qué le gusta hacer en su tiempo libre?
+
+---
+
+# El verbo gustar
+
+### El verbo gustar tiene DOS formas: **gusta** y **gustan**
+
+| Comp. Indirecto | gusta/gustan | Sujeto         | 
+| --------------- | ------------ | -------------- |
+| Me              | gust**a**    | jugar al tenis |
+| Te              | gust**a**    | el tenis       |
+| Le              | gust**a**    | el deporte     |
+| Nos             | gust**a**    | la clase       |
+| Os              | gust**a**    | Middlebury     |
+| Les             | gust**a**    | la lluvia      |
+
+---
+
+# El verbo gustar
+
+### El verbo gustar tiene DOS formas: **gusta** y **gustan**
+
+| Comp. Indirecto | gusta/gustan  | Sujeto               | 
+| --------------- | ------------- | -------------------- |
+| Me              | gust**an**    | los árboles          |
+| Te              | gust**an**    | el tenis y el fútbol |
+| Le              | gust**an**    | los deportes         |
+| Nos             | gust**an**    | las clases           |
+| Os              | gust**an**    | los edificios        |
+| Les             | gust**an**    | las nubes            |
+
+---
+
+# ¿A ti qué te gusta hacer en tu tiempo libre?
+
+- montar en bicicleta
+
+- jugar videojuegos
+
+- practicar el tenis
+
+- mirar una película de terror
+
+- bailar en una fiesta
+
+- ir de compras
+
+- correr por el campus
+
+- leer el periódico
+
+- practicar el básquetbol
+
+---
+
+
+# El énfasis y aclaración con gustar y los nombres.
+
+| Comp. Indirecto    | gusta/gustan | Sujeto         |
+| ------------------ | ------------ | -------------- |
+| **A mí** me        | gust**a**    | jugar al tenis |
+| **A ti** te        | gust**a**    | el tenis       |
+| **A él** le        | gust**a**    | el deporte     |
+| **A nosotros** nos | gust**a**    | la clase       |
+| **A vosotros** os  | gust**a**    | Middlebury     |
+| **A ellas** les    | gust**a**    | la lluvia      |
+
+--
+
+
+### **A Carlos** le gusta pasar su tiempo libre en la residencia,
+
+### *pero* **a Juan** le gusta estudiar en su cuarto.
+
+---
+
+# El énfasis y aclaración con gustar y los nombres.
+
+| Comp. Indirecto    | gusta/gustan  | Sujeto                |
+| ------------------ | ------------- | --------------------- |
+| **A mí** me        | gust**an**    | los árboles           |
+| **A ti** te        | gust**an**    | el tenis y el fútbol  |
+| **A él** le        | gust**an**    | los deportes          |
+| **A nosotros** nos | gust**an**    | las clases            |
+| **A vosotros** os  | gust**an**    | los edificios         |
+| **A ellas** les    | gust**an**    | las nubes             |
+
+--
+
+
+### **A Carlos** le gustan los plátanos,,
+
+### *pero* **a Juan** le gustan las manzanas.
+
+
+---
+
+# ¿A tus amigos y a ti les gusta...
+
+.pull-left[
+
+- jugar videojuegos?
+
+- patinar sobre el hielo?
+
+- nadar?
+
+]
+
+.pull-right[
+
+- Sí, nos gusta mucho.
+
+- No, no tanto. 
+
+]
+
+---
+
+# Cuando NO usamos gustar
+
+¿Me gusta el senador de Vermont?
+
+![img](libs/img/bernie.jpg)
+
+
+
+---
+class: center, middle
+# ¡No!
+
+--
+
+o... ¿sí?
+
+--
+
+Me cae bien Bernie Sanders. 
+
+Me llevo bien con Bernie Sanders. 
+
+---
+class: middle, center
+
+# Practica
+
+![img](libs/img/diaperfecto.png)
+
+
+---
+
+# Usamos el verbo gustar para hablar de nuestro día perfecto
+
+**Ejemplo**: 
+
+Me gusta leer un libro. 
+Visito a mis abuelos. 
+Me gusta comer con ellos.
+A Nosotros nos gustan los helados de Rita's para postre. 
+También me gusta tejer por la tarde con mi abuela. 
+
+
+---
+
+# BINGO de personas 
+
+![img](libs/img/bingo.png)
+
+---
+
+# Mejor/peor profe/jefe
+
+## ¿Qué te gustó/no te gustó? 
+
+---
+
+# ¿¿Comemos juntos un día?? Desayno, almuerzo o cena.
+
+---
+
+# Algunas sugerencias
+
+- Habla siempre español 
+
+- Haz muchas preguntas. 
+
+- No tengas miedo de hacer errores; lo que importa es la comunicación. 
+
+- Pide ayuda cuando estés confundido/a.
+
+- Ven a clase con la tarea preparada. 
+
+- No asumas nada, pídele al profesor que confirme las expectativas. 
+
+- Participa activamente en clase; procura hablar por lo menos 10 minutos en 
+cada clase. 
+
+---
+
+# Más sugerencias
+
+- Lee mucho en español. La lectura es muy buena para desarrollar la producción 
+oral. 
+
+- Escucha la radio en español. 
+
+- Escucha música en español. 
+
+- Ve a todas las películas de la escuela española. 
+
+- **Participa en muchas actividades co-curriculares.**
+
+- Habla con otros profesores y con estudiantes de todos los niveles.
+
+- ¡Diviértete!
+---
+
+- [Actividades cocurriculares](https://schoolofspanish.middcreate.net)  
+	- el teatro
+	- el baile
+	- **la clínica de pronunciación**
+
+- Madrinos/padrinos  
+	- hacer amigos con más nivel
+	- hablar con estudiantes del MA
+
+- **NO** tener miedo  
+	- de hablar
+	- de hacer preguntas
+	- de intentar
+
+- Estudiar (pero ¡no demasiado!)
+
+---
+
+# Tutores
+
+#### ¿Quién?
+
+- ¡Hay muchos!
+- Estudiantes graduados
+- Ex alumnos
+- Profesores
+
+#### ¿Cuándo?
+
+- Ver horarios en el boletín o la página de la escuela
+
+#### ¿Qué más?
+
+- Turnos de 20 minutos
+- Hay que tener dudas concretas 
+
+---
+class: middle, center
+# ¿Qué vamos a hacer este verano?
