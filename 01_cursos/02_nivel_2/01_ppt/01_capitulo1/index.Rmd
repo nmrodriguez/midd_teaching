@@ -1,0 +1,390 @@
+---
+title: "Capítulo 1"
+subtitle: "Español 2"
+author: "Nicole Rodríguez"
+institute: "Middlebury College"
+date: "2022/07/05 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [default, middlebury, middlebury-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# Nuestro Plan
+
+- Revisar tarea
+
+- Un poco más de practica con el verbo gustar
+
+- Un conflicto de identidad
+
+- Narrar en presente
+
+---
+class: middle, center, inverse
+
+## Wordle
+
+https://wordle.danielfrg.com 
+
+---
+class: middle, center, inverse
+
+# ¿¿Comemos juntos un día?? Desayno, almuerzo o cena.
+
+# ¿Grupo de Whatsapp o Slack?
+---
+class: middle, center, inverse
+
+# ¿Preguntas de la tarea?
+
+---
+class: center, middle
+# Mejor/peor profe/jefe
+
+## ¿Qué te gustó/no te gustó? 
+
+---
+
+# La identidad
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xzjd_7qkYtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+class: middle, center
+
+![audio](libs/img/audio_foto.png)
+
+---
+
+![questions](libs/img/audio_q.png)
+
+
+<audio controls>
+  <source src="./libs/assets/txt_audio_cd1_track_01.mp3" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+---
+class: middle, center
+
+# ¿Cómo te identificas?
+
+---
+class: middle, center, inverse
+
+# Descanso
+
+---
+class: middle, center, inverse
+
+# Narramos en el presente
+
+---
+### El paradigma tradicional
+
+|    |    |  Singular      |    | Plural              |
+|:---| :- | :--------------| :- | :------------------ |
+| 1a |    |  yo            |    | nosotros/as         |
+| 2a |    |  tú            |    | vosotros/as         |
+| 3a |    |  él/ella/usted |    | ellos/ellas/ustedes |
+
+--
+
+### Pronombres no binarios novedosos
+
+- elle, elles
+
+---
+
+# El tiempo presente expresa...
+
+
+### ...una rutina
+
+--
+
+- Estudio en la biblioteca todos los días.
+
+--
+
+### ...una acción continua
+
+--
+
+- Mi amiga vive en una residencia este semestre.
+
+--
+
+### ...una acción en el futuro
+
+--
+
+- Mis compañeros van a una fiesta mañana.
+
+---
+
+# Repaso y más información Los verbos regulares
+
+### Hay tres tipos de infinitivos: -ar, -er, -ir
+
+|                     |    | -ar         |    | -er         |    | -ir           |
+| :------------------ | :- | :---------- | :- | :---------- | :- | :------------ |
+|                     |    | **tomar**   |    | **comer**   |    | **asistir**   |
+| yo                  |    | tom**o**    |    | com**o**    |    | asist**o**    |
+| tú                  |    | tom**as**   |    | com**es**   |    | asist**es**   |
+| él/ella/usted       |    | tom**a**    |    | com**e**    |    | asist**e**    |
+| nosotro(as)         |    | tom**amos** |    | com**emos** |    | asist**imos** |
+| vosotros(as)        |    | tom**áis**  |    | com**éis**  |    | asist**ís**   |
+| ellos/ellas/ustedes |    | tom**an**   |    | com**en**   |    | asist**en**   |
+
+
+---
+
+# A practicar
+
+### Usa los verbos en el presente para hablar de...
+
+1. tu rutina  
+.grey[Normalmente desayuno a las 8, voy al gimnasio a las 9, trabajo a las 10, etc.]
+
+--
+
+2. una acción continua  
+.grey[Veo la televisión todos los días.]
+
+--
+
+3. una acción en el futuro (ir a + inf.)  
+.grey[Mañana voy a viajar.]
+
+---
+
+# A compartir con los compañer@s
+
+#.pull-left[Un día típico para mí en NJ] 
+
+#.pull-right[Un día típico en Middlebury]
+
+.pull-left[
+- Corro 15k cada semana
+
+- Tejo mucho
+
+- Cocino (mentira, cocina mi mamá)
+
+- Busco trabajo
+]
+
+.pull-right[
+- Corro (?)
+
+- Enseño desde las 8 hasta las 10 de la mañana
+
+- Comparto baño :(
+
+- Tejo (no tanto)
+]
+
+---
+# A compartir con los compañer@s
+
+#### Usa "En Middlebury ______ (verbo) pero en (otro lugar) _______ (verbo)."
+
+#### o: "En Middlebury y en (otro lugar) ______ (verbo)."
+
+Ejemplos: En Middlebury enseño pero en New Jersey cocino. Todos los días en Middlebury y en NJ escribo mi tesis.
+
+
+### Usemos palabras como: *normalmente, a veces, siempre, todos los días*
+
+---
+class: center, middle, inverse 
+
+# Verbos irregulares 
+
+![fear](libs/img/fear.gif)
+
+---
+
+
+# Verbos irregulares
+
+### Verbos con cambio en la raíz
+
+
+
+| El infinitivo | la raíz |     |   el cambio    |    Ej.    |
+| ------------- | ------- | --- | -------------- | --------- |
+|               |         |     |                |           |
+| pensar        | pens-   |     | p**ie**ns-     | Yo pienso |
+|               | **e**   |  →  | **ie**         |           |
+|               |         |     |                |           |
+| volver        | volv-   |     | v**ue**lv-     | Yo vuelvo |
+|               | **o**   |  →  | **ue**         |           |
+|               |         |     |                |           |
+| pedir         | ped-    |     | p**i**d-       | Yo pido   |
+|               | **e**   |  →  | **i**          |           |
+
+
+
+---
+
+# Verbos irregulares
+
+### Los verbos con el cambio **e** → **ie**
+
+
+
+|     Pensar    |             |                     |             |
+| ------------- | ----------- | ------------------- | ----------- |
+| yo            | p**ie**nso  | nosotros            | pensamos    |
+| tú            | p**ie**nsas | vosotros            | pensáis     |
+| él/ella/usted | p**ie**nsa  | ellos/ellas/ustedes | p**ie**nsan |
+
+
+
+--
+
+### Ejemplos
+
+- emp**e**zar
+- pref**e**rir
+- qu**e**rer
+- recom**e**ndar
+
+
+**OJO**! No hay cambio en las formas de **nosotros**/**vosotros**
+
+
+---
+
+# Verbos irregulares
+
+### Los verbos con el cambio **o** → **ue**
+
+
+
+|     Volver    |             |                     |             |
+| ------------- | ----------- | ------------------- | ----------- |
+| yo            | v**ue**lvo  | nosotros            | volvemos    |
+| tú            | v**ue**lves | vosotros            | volvéis     |
+| él/ella/usted | v**ue**lve  | ellos/ellas/ustedes | v**ue**lven |
+
+
+--
+
+### Ejemplos
+
+- c**o**star
+- p**o**der
+- d**o**rmir
+
+**OJO**! No hay cambio en las formas de **nosotros**/**vosotros**
+
+
+---
+
+# Verbos irregulares
+
+### Los verbos con el cambio **e** → **i**
+
+
+
+|     Pedir     |           |                     |            |
+| ------------- | --------- | ------------------- | ---------- |
+| yo            | p**i**do  | nosotros            | pedimos    |
+| tú            | p**i**des | vosotros            | pedís      |
+| él/ella/usted | p**i**de  | ellos/ellas/ustedes | p**i**den  |
+
+
+--
+
+### Ejemplos
+
+- p**e**dir
+- s**e**guir
+- s**e**rvir
+
+**OJO**! No hay cambio en las formas de **nosotros**/**vosotros**
+
+---
+
+
+# Verbos irregulares
+
+### Jugar: el cambio **u** → **ue**
+
+
+.large[
+|     Jugar     |            |                     |            |
+| ------------- | ---------- | ------------------- | ---------- |
+| yo            | j**ue**go  | nosotros            | jugamos    |
+| tú            | j**ue**gas | vosotros            | jugáis     |
+| él/ella/usted | j**ue**ga  | ellos/ellas/ustedes | j**ue**gan |
+]
+
+
+--
+
+### Ejemplo
+
+- J**ue**go al golf todos los días.
+
+**OJO**! No hay cambio en las formas de **nosotros**/**vosotros**
+---
+
+# Actividad: Crowdsourcing un cuento
+
+.pull-left[
+
+- Utilizando la lista de verbos que está a la derecha, escribe una frase 
+corta en una hoja de papel. 
+  - Puede ser una frase simple (SVO). 
+  - Intenta usar vocabulario nuevo. 
+
+
+
+- Cuando el profesor diga, mándale el cuento a alguien de tu grupo por mensaje 
+**privado**.
+
+
+
+- Lee lo que está escrito y añade una frase más. 
+  - Tienes que usar uno de los verbos de la lista. 
+  - Sólo puedes añadir **una** frase. 
+
+
+- Repite.
+
+]
+
+--
+
+.pull-right[
+
+### Verbos
+
+- jugar
+- querer
+- seguir
+- servir
+- pedir
+- poder
+- dormir
+- empezar
+- costar
+- preferir
+- recomendar
+
+]
+
+---
+
+![activity7](libs/img/actividad7.png)
+
+
