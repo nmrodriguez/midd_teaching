@@ -17,366 +17,363 @@ output:
 
 - Revisar tarea
 
-- Un poco más de practica con el verbo gustar
+- Construcciones reflexivas
 
-- Un conflicto de identidad
+- La vida nocturna
 
-- Narrar en presente
-
----
-class: middle, center, inverse
-
-# ¿¿Comemos juntos un día?? Desayno, almuerzo o cena.
-
-# ¿Grupo de Whatsapp o Slack?
----
-class: middle, center, inverse
-
-# ¿Preguntas de la tarea?
-
----
-class: center, middle
-# Mejor/peor profe/jefe
-
-## ¿Qué te gustó/no te gustó? 
-
----
-
-# La identidad
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xzjd_7qkYtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-class: middle, center
-
-![audio](libs/img/audio_foto.png)
-
----
-
-![questions](libs/img/audio_q.png)
-
-
-<audio controls>
-  <source src="./libs/assets/txt_audio_cd1_track_01.mp3" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
----
-class: middle, center
-
-# ¿Cómo te identificas?
+- Proyecto #1: Las entrevistas 
 
 ---
 class: middle, center, inverse
+
+# La tarea -- ¿preguntas?
+---
+class: middle, center, inverse
+
+## Wordle
+
+https://wordle.danielfrg.com 
+---
+background-image: url(libs/img/spiderman.jpg)
+background-size: contain
+class: middle
+
+--
+
+# .white[Spiderman (1) ve al Spiderman (2)]
+
+--
+
+# .white[Spiderman (2) ve al Spiderman (1)]
+
+--
+
+# .white[Ellos se ven]
+
+---
+background-image: url(libs/img/doghug.png)
+background-size: contain
+background-position: 200% 50%
+class: middle
+
+--
+
+## Kino abraza a Maya
+
+--
+
+## Maya abraza a Kino
+
+--
+
+## Ellos se abrazan
+
+---
+background-image: url(libs/img/naruto.png)
+background-size: contain
+background-color: black
+
+---
+background-image: url(libs/img/globos.jpg)
+background-size: contain
+background-color: black
+
+---
+
+# Para expresar reciprocidad
+
+### Verbos recíprocos
+
+- Verbos que se usan para expresar acciones mútuas
+
+- 2 o más personas participan en una acción que hacen el uno al otro
+
+- Incluye un pronombre recíproco, siempre en plural
+
+--
+
+### Ejemplos
+
+- Marta y yo **nos** .RUred[amamos]
+
+- Ustedes **se** .RUred[conocen]
+
+- Ben and Leslie **se** .RUred[casan]
+
+- Vosotras **os** .RUred[ayudáis] con la tarea 
+
+---
+
+# Para expresar reciprocidad
+
+### Pronombres recíprocos
+
+| Persona   | Pronombre | Ejemplo                                             |
+| :-------- | :-------- | :-------------------------------------------------- |
+| Primera   | nos       | **Nos** .RUred[vemos] *el uno al otro* en el pasillo. |
+|           |           | .white[.]                                             |
+| Segunda   | os        | **Os** .RUred[escribís] *mutuamente* durante el verano. |
+| \*Segunda | se        | Ustedes **se** .RUred[ayudan] *recíprocamente*.         |
+|           |           | .white[.]                                             |
+| Tercera   | se        | Los niños **se** .RUred[pelean] *entre sí*.             |
+
+--
+
+
+.pull-left[
+.content-box-blue[
+¡.RUred[OJO]! Si se trata de una contrucción de reciprocidad siempre se puede 
+incluir una expresión tipo *el uno al otro*, *mutuamente*, *recíprocamente*, 
+*entre sí*, *entre ellos*, etc. 
+]
+]
+
+--
+
+.pull-right[
+.content-box-red[
+\*En la mayoría de las variedades del español **se** representa 
+semánticamente la segunda persona plural (ustedes), aunque su forma es 
+gramaticalmente la tercera persona plural.
+]
+]
+
+---
+
+# Para expresar reciprocidad
+
+### Verbos comunes
+
+- abrazarse
+- conocerse
+- mirarse
+- ayudarse
+- despedirse
+- pelearse
+- besarse
+- divorciarse
+- reunirse
+- casarse
+- estrellarse
+
+--
+
+background-image: url(libs/img/crash.dms)
+background-size: 450px
+background-position: 85% 50%
+
+--
+
+background-image: url(libs/img/hug.gif)
+background-size: 450px
+background-position: 85% 50%
+
+--
+
+background-image: url(libs/img/despedirse.dms)
+background-size: 450px
+background-position: 85% 50%
+
+--
+
+background-image: url(libs/img/kisses.gif)
+background-size: 450px
+background-position: 85% 50%
+
+--
+
+background-image: url(libs/img/pulgas.gif)
+background-size: 450px
+background-position: 85% 50%
+
+--
+
+background-image: url(libs/img/scratch.gif)
+background-size: 450px
+background-position: 85% 50%
+
+
+---
+
+# Construcciones reflexivas
+
+- La persona hace y recibe la acción.
+
+
+.pull-left[
+- **Me** despierto a las 8:00 todos los días.
+
+- Mi padre **se** baña por la noche.
+
+- Mis hermanas siempre **se cepillan** el pelo por la mañana.
+]
+
+.pull-right[
+- Todas las mañanas despierto a mi padre a las 8:00.
+
+- Mi padre baña a mi hermanito por la noche. 
+
+- Mi hermana cepilla al perro una vez por semana. 
+]
+
+---
+
+# Los pronombres reflexivos
+
+|           |           |
+| :-------- | :-------- | 
+|  **me**   | **nos**   | 
+| **te**    | **os**    | 
+| **se**    | **se**    |  
+
+--
+
+Verbos reflexivos comunes:
+
+|           |           |           |           |
+| :-------- | :-------- | :-------- | :-------- |
+| **acostarse**  | **maquillarse** | **afeitarse**  | **peinarse**   |
+| **arreglarse** | **ponerse**     | **bañarse**    | **prepararse** |
+| **cepillarse** | **vestirse**    | **despertarse**| **quitarse**   |
+| **secarse**    | **dormirse**    | **ducharse**   | **lavarse**    |
+
+
+---
+#Actividad 12 - Tu rutina
+
+En parejas, describan cuatro o cinco actividades de su rutina de la mañana y de su rutina de la noche. 
+
+**Modelo**: Por la mañana yo me despierto a las 6:15, pero me levanto a las 6:45 y tomo café antes que nada. Después...
+
+--
+
+**Parte B** Ahora, díganse cuatro cosas que generalmente hacen los fines de semana y tres cosas que van a hacer este fin de semana. 
+
+**Modelo** En general, los fines de semana me levanto tarde, pero este fin de semana voy a levantarme temprano porque...
+
+---
+
+![actividad13](libs/img/actividad13.png)
+
+---
+
+![actividad15](libs/img/actividad15.png)
+
+---
+class: center, middle, inverse
 
 # Descanso
 
 ---
-class: middle, center, inverse
+# La vida nocturna (y nuestras opiniones)
 
-# Narramos en el presente
+- Es preferible sacar a bailar a alguien que baliar en grupo.
 
----
-### El paradigma tradicional
+- La primera fila no es la mejor para ver un concierto. 
 
-|    |    |  Singular      |    | Plural              |
-|:---| :- | :--------------| :- | :------------------ |
-| 1a |    |  yo            |    | nosotros/as         |
-| 2a |    |  tú            |    | vosotros/as         |
-| 3a |    |  él/ella/usted |    | ellos/ellas/ustedes |
+- La gente que sale a pasear en auto no tiene nada mejor que hacer. 
 
---
-
-### Pronombres no binarios novedosos
-
-- elle, elles
+- Le gente que te deja plantad@/e generalmente es gente distraída. 
 
 ---
 
-# El tiempo presente expresa...
-
-
-### ...una rutina
+# La vida nocturna (y nuestras opiniones)
 
 --
 
-- Estudio en la biblioteca todos los días.
+- ¿Van a bailar? ¿Con qué frecuencia? ¿Sacan a bailar a otra persona o esperan a que la otra persona los saque a bailar? 
 
 --
 
-### ...una acción continua
+- ¿Les gusta ir a los bares? ¿Por qué? 
 
 --
 
-- Mi amiga vive en una residencia este semestre.
-
---
-
-### ...una acción en el futuro
-
---
-
-- Mis compañeros van a una fiesta mañana.
+- ¿Qué hacen si aceptan la invitación de alguien, pero después deciden no salir? 
 
 ---
+# El uso de ¿qué? y ¿cuál?
 
-# Repaso y más información Los verbos regulares
-
-### Hay tres tipos de infinitivos: -ar, -er, -ir
-
-|                     |    | -ar         |    | -er         |    | -ir           |
-| :------------------ | :- | :---------- | :- | :---------- | :- | :------------ |
-|                     |    | **tomar**   |    | **comer**   |    | **asistir**   |
-| yo                  |    | tom**o**    |    | com**o**    |    | asist**o**    |
-| tú                  |    | tom**as**   |    | com**es**   |    | asist**es**   |
-| él/ella/usted       |    | tom**a**    |    | com**e**    |    | asist**e**    |
-| nosotro(as)         |    | tom**amos** |    | com**emos** |    | asist**imos** |
-| vosotros(as)        |    | tom**áis**  |    | com**éis**  |    | asist**ís**   |
-| ellos/ellas/ustedes |    | tom**an**   |    | com**en**   |    | asist**en**   |
-
-
----
-
-# A practicar
-
-### Usa los verbos en el presente para hablar de...
-
-1. tu rutina  
-.grey[Normalmente desayuno a las 8, voy al gimnasio a las 9, trabajo a las 10, etc.]
+- En general se usa de manera paralela al inglés
 
 --
 
-2. una acción continua  
-.grey[Veo la televisión todos los días.]
+- ¿**Qué** te ocurre? 
 
---
+- ¿**Qué** haces mañana?
 
-3. una acción en el futuro (ir a + inf.)  
-.grey[Mañana voy a viajar.]
+- ¿**Cuál** le gusta más?
+
+- ¿**Cuáles** de estos cantantes prefieren?
 
 ---
+# Que + ser 
 
-# A compartir con los compañer@s
-
-#.pull-left[Un día típico para mí en NJ] 
-
-#.pull-right[Un día típico en Middlebury]
+Se usa **qué + ser** para pedir una definición o clasificación 
 
 .pull-left[
-- Corro 15k cada semana
+- ¿**Qué es** un revendedor?
 
-- Tejo mucho
-
-- Cocino (mentira, cocina mi mamá)
-
-- Busco trabajo
-]
-
-.pull-right[
-- Corro (?)
-
-- Enseño desde las 8 hasta las 10 de la mañana
-
-- Comparto baño :(
-
-- Tejo (no tanto)
-]
-
----
-# A compartir con los compañer@s
-
-#### Usa "En Middlebury ______ (verbo) pero en (otro lugar) _______ (verbo)."
-
-#### o: "En Middlebury y en (otro lugar) ______ (verbo)."
-
-Ejemplos: En Middlebury enseño pero en New Jersey cocino. Todos los días en Middlebury y en NJ escribo mi tesis.
-
-
-### Usemos palabras como: *normalmente, a veces, siempre, todos los días*
-
----
-class: center, middle, inverse 
-
-# Verbos irregulares 
-
-![fear](libs/img/fear.gif)
-
----
-
-
-# Verbos irregulares
-
-### Verbos con cambio en la raíz
-
-
-
-| El infinitivo | la raíz |     |   el cambio    |    Ej.    |
-| ------------- | ------- | --- | -------------- | --------- |
-|               |         |     |                |           |
-| pensar        | pens-   |     | p**ie**ns-     | Yo pienso |
-|               | **e**   |  →  | **ie**         |           |
-|               |         |     |                |           |
-| volver        | volv-   |     | v**ue**lv-     | Yo vuelvo |
-|               | **o**   |  →  | **ue**         |           |
-|               |         |     |                |           |
-| pedir         | ped-    |     | p**i**d-       | Yo pido   |
-|               | **e**   |  →  | **i**          |           |
-
-
-
----
-
-# Verbos irregulares
-
-### Los verbos con el cambio **e** → **ie**
-
-
-
-|     Pensar    |             |                     |             |
-| ------------- | ----------- | ------------------- | ----------- |
-| yo            | p**ie**nso  | nosotros            | pensamos    |
-| tú            | p**ie**nsas | vosotros            | pensáis     |
-| él/ella/usted | p**ie**nsa  | ellos/ellas/ustedes | p**ie**nsan |
-
-
-
---
-
-### Ejemplos
-
-- emp**e**zar
-- pref**e**rir
-- qu**e**rer
-- recom**e**ndar
-
-
-**OJO**! No hay cambio en las formas de **nosotros**/**vosotros**
-
-
----
-
-# Verbos irregulares
-
-### Los verbos con el cambio **o** → **ue**
-
-
-
-|     Volver    |             |                     |             |
-| ------------- | ----------- | ------------------- | ----------- |
-| yo            | v**ue**lvo  | nosotros            | volvemos    |
-| tú            | v**ue**lves | vosotros            | volvéis     |
-| él/ella/usted | v**ue**lve  | ellos/ellas/ustedes | v**ue**lven |
-
-
---
-
-### Ejemplos
-
-- c**o**star
-- p**o**der
-- d**o**rmir
-
-**OJO**! No hay cambio en las formas de **nosotros**/**vosotros**
-
-
----
-
-# Verbos irregulares
-
-### Los verbos con el cambio **e** → **i**
-
-
-
-|     Pedir     |           |                     |            |
-| ------------- | --------- | ------------------- | ---------- |
-| yo            | p**i**do  | nosotros            | pedimos    |
-| tú            | p**i**des | vosotros            | pedís      |
-| él/ella/usted | p**i**de  | ellos/ellas/ustedes | p**i**den  |
-
-
---
-
-### Ejemplos
-
-- p**e**dir
-- s**e**guir
-- s**e**rvir
-
-**OJO**! No hay cambio en las formas de **nosotros**/**vosotros**
-
----
-
-
-# Verbos irregulares
-
-### Jugar: el cambio **u** → **ue**
-
-
-.large[
-|     Jugar     |            |                     |            |
-| ------------- | ---------- | ------------------- | ---------- |
-| yo            | j**ue**go  | nosotros            | jugamos    |
-| tú            | j**ue**gas | vosotros            | jugáis     |
-| él/ella/usted | j**ue**ga  | ellos/ellas/ustedes | j**ue**gan |
-]
-
-
---
-
-### Ejemplo
-
-- J**ue**go al golf todos los días.
-
-**OJO**! No hay cambio en las formas de **nosotros**/**vosotros**
----
-
-# Actividad: Crowdsourcing un cuento
-
-.pull-left[
-
-- Utilizando la lista de verbos que está a la derecha, escribe una frase 
-corta en una hoja de papel. 
-  - Puede ser una frase simple (SVO). 
-  - Intenta usar vocabulario nuevo. 
-
-
-
-- Cuando el profesor diga, mándale el cuento a alguien de tu grupo por mensaje 
-**privado**.
-
-
-
-- Lee lo que está escrito y añade una frase más. 
-  - Tienes que usar uno de los verbos de la lista. 
-  - Sólo puedes añadir **una** frase. 
-
-
-- Repite.
+- Es una persona que le vende a otro algo que compró?
 
 ]
 
 --
 
 .pull-right[
+- ¿**Qué somos**, amigos o novios?
 
-### Verbos
+- ![tinabelcher](libs/img/tinabelcher.gif)
 
-- jugar
-- querer
-- seguir
-- servir
-- pedir
-- poder
-- dormir
-- empezar
-- costar
-- preferir
-- recomendar
+]
+---
+# Comparamos
+
+.pull-left[
+
+¿**Qué** es tarea?
 
 ]
 
+.pull-right[
+
+¿**Cuál** es la tarea?
+]
+
+---
+# Actividad 19 - ¿Qué hacemos esta noche?
+
+1. ¿_________ es el objectivo del grupo?
+
+2. ¿_________ programa sugiere Marian: ir al cine, a un disco o dar una vuelta?
+
+3. ¿_________ es Sol Caribe?
+
+4. ¿_________ sugiere hacer Carola?
+
+5. ¿_________ es posiblemente el email de Carola Medrano?
+
+6. ¿_________ significa dejar plantada?
+
+7. ¿_________ de los programas deciden hacer las chicas?
+
 ---
 
-![activity7](libs/img/actividad7.png)
+# Actividad 20 - ¿Cuánto sabes?
+
+1. ¿A _________ hora almuerza la gente en España?
+
+2. ¿_________ es un sinónimo de *pasarlo bien*?
+
+3. ¿Con _________ de estas formas se despiden dos mujeres mexicanas jóvenes: un beso o un apretón de manos?
+
+4. ¿_________ es tener un contratiempo?
+
+5. ¿_________ películas ve más un mexicano: nacionales o extranjeras?
+
+6. ¿_________ significa el término **hispano** en los EE.UU?
 
 
+---
+
+# Instrucciones para las entrevistas con un@ profesor@ de Middlebury
