@@ -337,3 +337,14 @@ class: center, middle, inverse
 # Kahoot
 
 https://create.kahoot.it/share/preterite-vs-imperfect/99181cd8-35de-4356-ac71-b564c5a62579 
+
+---
+# Ya que somos expertos en la diferencia entre el pretérito y el imperfecto...
+
+- Vamos a describir una experiencia de trabajo. 
+
+- Vamos a usar el imperfecto y el pretérito 
+
+- ejemplo: De pequeña, siempre hacía chorizos con mi familia. Era muy divertido, pero 
+trabajábamos mucho. Una vez, mi abuela no echó sal o pimentón al chorizo :(. Los 
+chorizos salieron mal ese año. 
