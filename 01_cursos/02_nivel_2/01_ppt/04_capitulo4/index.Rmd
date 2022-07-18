@@ -1,0 +1,520 @@
+---
+title: "Capítulo 4"
+subtitle: "Español 2"
+author: "Nicole Rodríguez"
+institute: "Middlebury College"
+date: "2022/7/16 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [default, middlebury, middlebury-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+# Nuestro plan
+
+- Revisar la tarea
+
+- Descripciones
+
+- Ser & estar + adj
+
+- Pasado participio 
+
+- Dar instrucciones para cortometraje 
+
+---
+class: middle, center
+
+# Wordle
+
+---
+class: middle, center
+
+# Tarea -- ¿preguntas? 
+
+---
+class: middle, center, inverse
+
+# Descripciones
+
+---
+# Nuestr@/e parejas ideales 
+
+En parejas, describan cómo son físicamente la persona ideal que aparecen en los anuncios comericales de este país. Mencionan también tres adjectivos que describan su personalidad. 
+
+--
+
+**Parte B** Ahora describan la persona ideal para ti. 
+
+---
+
+# ¿Cómo eras de adolescente?
+
+En parejas describanle a la otra persona cómo era Uds. cuando tenían 14 años. Usen tres adjetivos para describir su personalidad y tres a para su físico. Diganle también si en la actualidad tienen o no esas características. 
+
+**Modelo**: Cuando yo era adolescente, era muy celosa porque... pero ahora... Físicamente tenía...
+
+---
+class: middle, center, inverse
+
+# Ser & estar + adj
+
+---
+# El verbo ser para describir
+
+### ser + adjetivo
+
+- Soy responsable
+- Eres tímido
+- Somos divertidos
+
+--
+  
+  ### Sirve para identificar y describir a las personas
+  
+  - ¿De dónde eres?
+  - ¿Cuál es tu dirección?
+  
+  (profesor, estudiante, militar, hombre, mujer, padre, madre, simpático)
+
+---
+background-image: url(./libs/img/chloe.png)
+background-size: 250px
+background-position: 95% 25%
+
+
+#El verbo ser: para identificar y clasificar
+
+
+- Chloe **es** mi sobrina.
+
+--
+
+- Mi hermano **es** estudiante.
+
+--
+
+- Yo **soy** lingüista.
+
+--
+
+- Tú **eres** estudiante.
+
+--
+
+- Jennifer **es** de California.
+
+--
+
+- Nosotros **somos** divertidos.
+
+---
+background-image: url(./libs/img/sultan.png), url(./libs/img/lobo.png)
+background-size: 200px, 200px
+background-position: 80% 50%, 100% 50%
+
+# El verbo ser: 
+
+## Para describir características con los adjetivos
+
+--
+
+- Sultán **es** grande y feroz.
+
+- Sultán y Lobo **son** buenos perros.
+
+---
+background-image: url(./libs/img/chloe2.png)
+background-size: contain
+background-position: 100% 50%
+
+# Chloe es muy...
+
+---
+background-image: url(./libs/img/ser1.png)
+background-size: 250px
+background-position: 95% 50%
+
+# Los usos del verbo ser: 
+
+## Con la preposición "de"
+
+--
+
+- **Posesión**
+  - ¿De quién **es** el cuarto? **Es** de Nicole
+
+
+
+--
+
+- **Origen**
+  - ¿De dónde **es** Jacobo? **Es** de México.
+
+---
+background-image: url(./libs/img/fiesta.png)
+background-size: 450px
+background-position: 95% 50%
+
+# Los usos del verbo ser: 
+
+## Con la HORA y el LUGAR de los eventos
+
+--
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+- ¿Cuándo **es** la fiesta?
+
+--
+
+<br>
+<br>
+<br>
+<br>
+
+- **Es** el sábado a las siete de la noche.
+
+--
+
+<br>
+
+- La fiesta **es** en la casa del profesor.
+
+---
+background-image: url(./libs/img/colorado.png)
+background-size: contain
+background-position: 140% 50%
+
+# Los usos del verbo estar:
+
+## La ubicación de las cosas
+
+--
+
+- ¿Dónde **está** la profe?
+
+--
+
+- **Está** en Coloardo.
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/frustration.png)
+background-position: 90% 30%
+
+# Los usos del verbo estar: 
+
+## Para describir una condición
+
+--
+
+- ¿Cómo **está** Jackie Chan?
+
+- **Está**...
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/frustration.png)
+background-position: 90% 30%
+
+# Ser y estar: 
+
+## Las características versus las condiciones
+
+--
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+.pull-left[
+
+### ¿Cómo **es** Jackie Chan?
+
+- **Es** bajo con pelo negro.
+- **Es** simpático.
+
+]
+
+.pull-right[
+
+### ¿Cómo **está** Jackie Chan? 
+
+- **Está** confundido.
+- **Está** frustrado.
+
+]
+
+---
+# Ser + estar + adjetivo
+
+Usamos ser y estar con adjetivos 
+
+.pull-left[
+- Usamos ser + adjetivo cuando describimos características físicas que asociamos con una persona, animal, lugar o cosa
+
+- Pablo **es** tan alto como su padre.
+
+- Su esposa **es** muy celosa.
+
+- Su apartamento **es** muy moderno.
+]
+
+.pull-right[
+- Usamos estar + adjetivo cuando describimos una condición de una persona, animal, lugar o cosa
+
+- Nosotros **estábamos cansados** de estar en la playa. 
+
+- El agua **estaba muy fría**.
+
+- Mi padre siempre **estaba enojado** con alguien de la familia.
+]
+
+---
+# Adjetivos + ser/estar
+
+- Se usa normalmente con ser para describir las características de una persona, animal, o cosa que se puede usar con estar para indicar un cambio de condición.
+
+.pull-left[
+- ser + adjetivo
+
+- Mi marido **es un hombre muy cariñoso**. 
+
+- El gazpacho **es** una sopa española fría. 
+]
+
+.pull-right[
+- estar + adjetivo
+
+- **Estás muy cariñoso hoy**
+
+- Camarero, esta sopa está fría.
+]
+
+---
+# Adjetivos + ser/estar 
+
+- Algunos adjetivos tienen diferentes significados que dependen del uso de ser/estar
+
+![adj](libs/img/adj_serestar.png)
+
+---
+# Actividad 20 - Impresiones equivocadas
+
+En parejas, imaginen que Uds. trabajan para una empresa y por primera vez asisten a una fiesta con sus compañeros de trabajo. Se sorprenden porque algunas personas están mostrando un aspecto de si mismos que nunca se ve en la oficina. Reaccionen a las descripciones. Sigan el modelo. 
+
+**modelo** Marta Ramos: secretaria; siempre le encuantra el lado positivo a las cosas, pero esta noche no porque su novio está bailando con otra
+
+Marta es tan ... pero, ¡qué increíble! Esta noche está muy ... 
+
+--
+
+- Jorge Mancebo: jefe de personal; siempre lleva corbata y habla poco; esta noche lleva una cadena de oro; está bailando cumbia con la cocinera
+
+- Cristina Salcedo: trabaja en relaciones públicas; siempre habla con todos y escucha sus problemas; esta noche está sentada sola en un rincón mirando al suelo y tomando Coca-Cola
+
+- Paulina Huidobro: jefa de producción; nunca sonríe y siempre le ve el lado negativo a todo; esta noche tiene una sonrisa de oreja a oreja y está besando apasionadamente a Juan Gris, el jefe de ventas
+
+
+---
+# Actividad 21 - Sus compañeros
+
+En parejas, hablen de la personalidad de por lo menos tres compañeros de la clase y digan cómo creen que se sienten ellos hoy y por qué. 
+
+**Ejemplo**: Craig es muy espontáneo e hiperactivo. Hoy está preocupado porque se peleó con su novia. 
+
+
+---
+class: middle, center, inverse
+
+# Pasado participio 
+
+---
+# El participio pasado/pasivo como adjetivo 
+
+- Usamos estar + participio pasivo para indicar el resultado de una acción 
+
+| Acción | Resultado   |
+|:-------|:------------|
+| Los padres **se preocupaban** porque sus hijos no sacaban buenas notas | **Estaban preocupados**     |
+| Pablo **pone** la mesa para comer.  | La mesa **está puesta**.   |
+
+---
+# El participio pasado/pasivo como adjetivo 
+
+- También funciona como un adjetivo y concuerda con el género y número del objeto 
+
+- **El** poll**o** está servid**o**
+
+- **Las** cam**as** están hech**as**
+
+--
+
+| Algunos irregulares   |                        |
+|:----------------------|:-----------------------|
+| abrir --> abierto/a   | morir --> muerto/a     |
+| cubrir --> cubierto/a | poner --> puesto/a     |
+| escribir --> escrito/a| resolver --> resulto/a |
+| hacer --> hecho/a     | romper --> roto/a      |
+
+---
+# Actividad 23 - En una disco
+
+Completa las conversaciones que escuchas en una disco, usando estar + el participio pasivo de los siguientes verbos
+
+- abrir
+
+- descomponerse
+
+- disponerse
+
+- envolver
+
+- hacer
+
+- romper
+
+- vestirse
+
+---
+
+![disco](libs/img/unadisco.png)
+
+---
+class: middle, center, inverse
+
+# Dar instrucciones para cortometraje
+
+
+---
+class: middle
+
+# Tarea
+
+**F**
+
+Estudiar: Pretérito e Imperfecto 3 p. 111 
+
+Contestar: P. 112 act. 8
+
+Estudiar: Lo + adjetivo y Lo que p. 115 
+
+Estudiar: Se accidental p.117
+
+Estudiar: vocabulario p. 130
+
+**SAM**
+
+P.54 act. 18
+
+---
+class: middle, center, inverse
+# Día 2
+
+---
+# Nuestro plan
+
+- Revisar la tarea
+
+- Descripciones
+
+- Ser & estar + adj
+
+- Pasado participio 
+
+- Dar instrucciones para cortometraje 
+
+---
+class: middle, center
+
+# Wordle
+
+---
+class: middle, center
+
+# Tarea -- ¿preguntas? 
+
+---
+class: middle, center, inverse
+
+# Objeto indirecto
+
+---
+class: middle, center, inverse
+
+# Charla
+
+---
+class: middle, center, inverse
+
+# Inmigración
+
+---
+class: middle
+
+**F**
+
+Contestar: Se accidental 118 act. 16 y 17
+
+Estudiar: Narrar y describir en el pasado p. 120
+
+Contestar: p. 120 act. 19 A y B, p. 121 act. 20 A 
+
+Estudiar: Presente Perfecto p.124
+
+**SAM**
+
+P. 60 act. 4, p. 61 act. 6, p. 62 act. 7 B, p. 63 act..9
+
+---
+class: middle, center, inverse
+# Día 3
+
+---
+# Nuestro plan
+
+- Revisar la tarea
+
+- Pretérito e imperfecto
+
+- Lo + adjectivo y lo que
+
+- Se accidental
+
+---
+class: middle, center
+
+# Wordle
+
+---
+class: middle, center
+
+# Tarea -- ¿preguntas? 
+
+---
+class: middle, center, inverse
+
+# Pretérito e imperfecto
+
+---
+class: middle, center, inverse
+
+# Lo + adjectivo y lo que
+
+---
+class: middle, center, inverse
+
+# Se accidental
+
+---
+class: center, middle
+
+# Tarea = Revisión de conceptos 
