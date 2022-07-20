@@ -435,12 +435,45 @@ class: middle, center, inverse
 ---
 class: middle, center
 
-# Wordle
+# Tarea -- ¿preguntas? 
 
 ---
-class: middle, center
+# Actividad 23 - En una disco
 
-# Tarea -- ¿preguntas? 
+Completa las conversaciones que escuchas en una disco, usando estar + el participio pasivo de los siguientes verbos
+
+- abrir
+
+- descomponerse
+
+- disponerse
+
+- envolver
+
+- hacer
+
+- romper
+
+- vestirse
+
+---
+
+.pull-left[
+- El sistema de sonido de esta disco _________. 
+- Entonces, salgamos de aquí y vamos a tomar algo al café de la esquina. 
+
+- Hace cinco minutos yo _______ a sacar a bailar a ese chico. 
+- ¿Y qué ocurrió? ¿Por qué no bailaron?
+]
+
+.pull-right[
+- Perdón, pero creo que necesitas dejar de bailar.
+- Pero, ¿por qué?
+- Es que tus pantalones __________. 
+
+- ¿Viste a la/el Profe X en la fiesta?
+- Sí estaba _____ cuando lo/la vi. ¡Qué vergüenza!
+]
 
 ---
 class: middle, center, inverse
@@ -448,14 +481,65 @@ class: middle, center, inverse
 # Objeto indirecto
 
 ---
-class: middle, center, inverse
+# Objeto indirecto
 
-# Charla
+Mi amiga Dolores no tiene teléfono en el Amazonas; por eso le escribí una carta. 
+
+Le escribí una carta a Dolores. 
+
+Les compré un regalo a Marco y a Ana. 
+
+Me compraste ese regalo a mí, ¿no?
+
+
+---
+# ¿Dónde va el objeto indirecto?
+
+.pull-left[
+- Le escribí una postal a mi hermano. 
+
+- Le había escrito una postal antes de irme a Ecuador. 
+
+- Le quiero escribir una postal. 
+
+- Le estoy escribiendo una postal.
+]
+
+.pull-right[
+- XXX
+
+- XXX
+
+- Quiero escribirle una postal. 
+
+- Estoy *escribiéndole* una postal. 
+]
+
+---
+# Actividad 29 - La historia de la Malinche
+
+Malinalli es la hija de un noble indígena y sabe hablar maya y también náhuatl, el idioma azteca. Cuando se muere su padre, su madre **la** vende y la compra un grupo de indígenas. Este grupo, a su vez, se la vende a otro grupo de indígenas. Después de la batalla de Tabasco, estos indígenas **le** dan un regalo a Cortés: Malinalli. Él **la** bautiza y le pone el nombre de Marina. Aguilar, un español que sabe maya, **le** enseña español. Durante un periodo de seis años ella se convierte en compañera, intérprete y enfermera de Cortés, y **le** enseña a Cortés a llevarse bien con los indígenas. **Lo** ayuda a formar una alianza con los tlaxcaltecas, archienemigos de los aztecas, para derrotar el imperio de Moctezuma. Doña Marina, como **la** llaman los conquistadores, es indispenable tanto para los españoles como para los tlaxcaltecas. El gran conquistador y donna Marina tienen un hijo y Cortés se queda con ella hasta que no **la** necesita más. Luego, doña Marina pasa a ser propiedad de uno sus capitanes. Después de su separación de Cortés, esta mujer tan importante en la conquista de México pasa a ser anónima. Hoy en día se la conoce con el nombre de *la Malinche*. 
+
+---
+class: center, middle
+
+# Actividades en canvas
 
 ---
 class: middle, center, inverse
 
 # Inmigración
+
+---
+# Actividad 1 - La influencia de los inmigrantes
+
+Piensa en los diferentes grupos de inmigrantes que hay en este país y dónde se puede ver su influencia. Da ejemplos específicos. 
+
+---
+
+# Inmigración
+
+- infografías
 
 ---
 class: middle
@@ -504,10 +588,176 @@ class: middle, center, inverse
 
 # Pretérito e imperfecto
 
+--
+
+## seguimos la saga
+
+---
+# Expresar intenciones en el pasado
+## (pero que no se materializaron)
+
+Se usa el imperfecto para hablar de intenciones o planes en el pasado, pero estos nunca llegaron a ocurrir. También usamos esta estructura para ofrecer una excusa por algo que tenía que ocurrir pero que **NO** ocurrió. 
+
+--
+
+**La estructura**: IR + a + verbo en infinitivo 
+
+Yo **iba a visitar** a mi familia en junio pero el Covid me obligó a cambiar de/los planes.
+
+Rubén me dijo que **iba a estudiar** para el examen pero se le rompió la computadora y no pudo. 
+
+---
+# Cambios de significado de verbos según el tiempo verbal (imperfecto o pretérito)
+
+- **Conocer** + lugar o persona: 
+  
+    - Imperfecto: Enrique conocía la ciudad porque había estado el año anterior. 
+    - Pretérito: Enrique me conoció cuando empezamos a estudiar en la universidad
+    
+- **Saber** + información:
+
+    - Imperfecto: El profesor sabía que el libro no había llegado. 
+    - Pretérito: El profesor supo de tu enfermedad y se interesó por saber cómo estabas. 
+    
+---
+# Cambios de significado de verbos según el tiempo verbal (imperfecto o pretérito)
+
+- **No querer** + infinitivo
+
+    - Imperfecto: Mi hija no quería estudiar, pero tuvo que hacerlo porque tenía un examen importante. (no quería pero lo hizo)
+    - Pretérito: Mi hija no quiso estudiar para el examen y obtuvo una F. (no quería y no lo hizo)
+    
+- **No poder** + infinitivo
+
+    - Imperfecto: Cuando empezó a estudiar en el Conservatorio, Rocío no podía tocar el piano, pero ahora es toda una profesional.
+    - Pretérito: Rocío no pudo aprender a tocar el piano porque sus padres nunca la matricularon en el Conservatorio. 
+    
+- **Tener que** + infinitivo
+
+    - Imperfecto: Mi marido tenía que llegar a casa a las 7 de la tarde, pero tuvo un contratiempo. 
+    - Pretérito: Mi marido tuvo que volver a casa a las 7 de la tarde y no pudo ver el partido de fútbol con los amigos. 
+    
+---
+# Tenía todas las buenas intenciones
+
+Ayer tus amigos y tú iban a hacer muchas cosas, pero todos tuvieron diferentes problemas. Usa la siguiento información para decir cuáles eran sus intenciones, por qué no las llevaron a cabo y qué hicieron después. 
+
+.pull-left[
+-**Intenciones**
+
+- hacer un picnic
+
+- ir a una fiesta
+
+- comprar el libro de trigonometría
+
+- estudiar para el examen
+
+- jugar un partido de fútbol
+
+- sacar un libro de la biblioteca
+
+- pagar la cuenta de la luz por Internet
+]
+
+
+.pull-right[
+-**Problemas**
+
+- perder la conexión 
+
+- llover
+
+- estar cansados
+
+- invitarte a una fiesta
+
+- no haber más en la librería
+
+- no tener el carné de estudiante. 
+
+- quedarse dormidos 
+]
+
+**¿Qué ocurrió después?** 
+
+---
+# La semana pasada 
+
+En parejas, digan tres cosas que tenía que hacer y que no hicieron la semana pasada, y por qué. 
+
+Ejemplos possibles: 
+
+- hacer fotocopias
+
+- comprar 
+
+- llamar a sus padres/amigos/etc
+
+- estudiar
+
+- limpiar
+
+- etc. 
 ---
 class: middle, center, inverse
 
 # Lo + adjectivo y lo que
+
+---
+# Expresamos ideas abstractas 
+
+- Lo + adjetivo y lo que
+
+- Usamos **lo** + un adjetivo singular masculino para expresar ideas abstractas 
+
+- **Lo bueno** es que muchos inmigrantes logran integrarse a la sociedad.
+
+- **Lo triste** es que no hay postre en Proctor.
+
+---
+# Expresamos ideas abstractas 
+
+- **Lo que** se usa para expresar "la cosa que" o "que", cuando "que" no es una palabra interrogative
+
+- **Lo que** les interesaba era no perder contacto con la familia.
+
+- ¿Qué dices? **Lo que** propones es absurdo. 
+
+---
+# Actividad 12 - Libros y películas
+
+Vamos a combiar ideas de las tres columnas y empezamos cada oración con **lo** + adjetivo.
+
+ejemplo: trágico, Romero, asesinar/al arzobispo
+
+Lo trágico de la película Romero fue que asesinaron al arzobispo.
+
+|             |                           |                   |
+|:------------|:--------------------------|:------------------|
+| intersante  | Psicosis                  | Hester Prynne/tener/un hijo ilegítmo|
+| trágico     | Frida                     | él/enamorarse/de Dulcinea |
+| horrible    | E.T.                      | quemarse/la ciudad de Atlanta |
+| escandoloso | Bambi                     | morirse/su madre |
+| terrible    | La letra escarlata        | esconderse/en el armario |
+| cómico      | El Quijote                | los dos/suicidarse |
+| triste      | Lo que el viento se llevó | él/atarcarla/en la ducha |
+| romántico   | ROmeo y Julieta           | sufrir/un accidente tráfico horrible |
+
+
+---
+# Middlebury College
+
+Discutan las siguientes ideas sobre su universidad
+
+- Lo que nos gusta es el campus porque.../Lo que nos gustan son los...
+
+- Lo que les gusta
+
+- Lo que les molesta
+
+- Lo que debe hacer la administración para mejorar la universidad
+
 
 ---
 class: middle, center, inverse
@@ -515,6 +765,93 @@ class: middle, center, inverse
 # Se accidental
 
 ---
+# Se accidental 
+
+- Usamos el "se" para indicar un evento que ocurrió accidentalmente:
+
+--
+
+![pants](libs/img/pants.png)
+
+
+**A Spongebob se le** rompieron los pantalones.
+
+---
+# Para formar: 
+
+.pull-left[
+se me
+
+se te
+
+se le
+
+se nos
+
+se os
+
+se le
+]
+
+
+.pull-right[
++ verbo + nombre (singular o plural)
+]
+
+---
+# Ejemplos:
+
+- **A la enfermera se le** cayeron las aspirinas. 
+
+- **A las enfermeras se les** cayeron las aspirinas. 
+
+- **Se nos** cayó la computadora. 
+
+- **Se le perdieron** las llaves.
+
+---
+
+![se](libs/img/se.png)
+
+---
+# La boda
+
+Dos parejas de novios que se casaron la semana pasada tuvieron bastante mala suerte el día de su boda. En parejas, una persona mira la información del matrimonio A y la otra la información del matrimonio B. Después, cuéntense qué le ocurrió a cada pareja y luego decidan cuál creen que tuvo peor suerte y por qué. 
+
+.pull-left[
+- Clara Gómez y Aldo Portillo
+
+- a ella/caer/un pedazo de pastel de boda/en el vestido
+
+- a él/romper/la cremallera de los pantalones
+
+- a ellos/quedar/ los pasaportes en la casa/ tomar el avión un día más tarde
+
+- a ella/perder/las maletas
+
+- a él/perder/el anillo de matrimonio 
+]
+
+.pull-right[
+- Santiago Vélez y Sara Sosa
+
+- a él/romper/una botella de champaña
+
+- a ella/caer/el anillo de matrimonio por el lavabo
+
+- a ellos/olivdar/los pasajes de avión en la casa
+
+- a ellos/acabar/la gasolina camino al aeropuerto/el avión salir/sin ellos
+
+- a él/perder/las tarjetas de crédito el segundo día de la luna de miel
+]
+---
 class: center, middle
 
 # Tarea = Revisión de conceptos 
+
+## ¿Por qué?
+
+--
+
+## por que hay prueba el viernes :/
