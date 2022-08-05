@@ -224,7 +224,7 @@ class: center, middle, inverse
 ---
 class: center, middle
 
-# Infograficos
+# Infográficos
 
 ---
 # Actividad 3 - Trabajar fuera del país
